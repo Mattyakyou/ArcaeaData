@@ -1,0 +1,381 @@
+[
+    {
+        "meta": {
+            "title": "Sayonara Hatsukoi",
+            "pack": "Arcaea",
+            "composer": "REDSHiFT",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "bpm": 178
+        },
+        "data": {
+            "Past": {
+                "level": "1",
+                "const": 1.5,
+                "notes": 205,
+                "length": 114,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 305,
+                "length": 114,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 666,
+                "length": 114,
+                "chart": "Toaster"
+            },
+            "Eternal": {
+                "level": "8",
+                "const": 8.5,
+                "notes": 728,
+                "length": 114,
+                "chart": "Luxance + Exschwasion"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Fairytale",
+            "pack": "Arcaea",
+            "composer": "chitose",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "bpm": 189
+        },
+        "data": {
+            "Past": {
+                "level": "1",
+                "const": 1.0,
+                "notes": 336,
+                "length": 122,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 511,
+                "length": 122,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 782,
+                "length": 122,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 932,
+                "length": 132,
+                "chart": "Nitro in Wonderland"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Vexaria",
+            "pack": "Arcaea",
+            "composer": "ak+q",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "bpm": 180
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 369,
+                "length": 129,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 534,
+                "length": 129,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 734,
+                "length": 129,
+                "chart": "Nitro"
+            },
+            "Beyond": {
+                "level": "9",
+                "const": 9.0,
+                "notes": 785,
+                "length": 129,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Rise",
+            "pack": "Arcaea",
+            "composer": "Combatplayer",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "bpm": 140
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 322,
+                "length": 143,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 599,
+                "length": 143,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 788,
+                "length": 143,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Lucifer",
+            "pack": "Arcaea",
+            "composer": "chitose",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "bpm": 165
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 424,
+                "length": 132,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 506,
+                "length": 132,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.2,
+                "notes": 861,
+                "length": 132,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Snow White",
+            "pack": "Arcaea",
+            "composer": "Puru",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "bpm": 150
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 486,
+                "length": 148,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 672,
+                "length": 148,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.4,
+                "notes": 978,
+                "length": 148,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1031,
+                "length": 148,
+                "chart": "én + Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Shades of Light in a Transcendent Realm",
+            "pack": "Arcaea",
+            "composer": "ak+q",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "bpm": 170
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 517,
+                "length": 151,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 789,
+                "length": 151,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.3,
+                "notes": 1067,
+                "length": 151,
+                "chart": "Nitro"
+            },
+            "Beyond": {
+                "level": "9",
+                "const": 9.1,
+                "notes": 1042,
+                "length": 151,
+                "chart": "N↑TRO"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Babaroque",
+            "pack": "Arcaea",
+            "composer": "cYsmix",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "bpm": 136
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 402,
+                "length": 149,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 645,
+                "length": 149,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.5,
+                "notes": 808,
+                "length": 149,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Lost Civilization",
+            "pack": "Arcaea",
+            "composer": "Laur vs CK",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "bpm": 75
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 462,
+                "length": 125,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 690,
+                "length": 125,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.2,
+                "notes": 986,
+                "length": 125,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1061,
+                "length": 125,
+                "chart": "Nitro affected by Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "GOODTEK (Arcaea Edit)",
+            "pack": "Arcaea",
+            "composer": "EBIMAYO",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "bpm": 190
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 449,
+                "length": 123,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 632,
+                "length": 123,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 968,
+                "length": 123,
+                "chart": "Nitro"
+            },
+            "Beyond": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1103,
+                "length": 123,
+                "chart": "GOODTOAST"
+            }
+        }
+    }
+]
