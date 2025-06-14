@@ -377,5 +377,384 @@
                 "chart": "GOODTOAST"
             }
         }
+    },
+    {
+        "meta": {
+            "title": "qualia -ideaesthesia-",
+            "pack": "Arcaea",
+            "composer": "nitro",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "bpm": 144
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 550,
+                "length": 148,
+                "chart": "-chartaesthesia-"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 875,
+                "length": 148,
+                "chart": "-chartaesthesia-"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.1,
+                "notes": 1022,
+                "length": 148,
+                "chart": "-chartaesthesia-"
+            },
+            "Beyond": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1288,
+                "length": 148,
+                "chart": "moonquay -end of chartaesthesia-"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Dement ~after legend~",
+            "pack": "Arcaea",
+            "composer": "Cosmograph",
+            "release": "2017-03-20",
+            "update_version": "1.0.9",
+            "bpm": 210
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 548,
+                "length": 126,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 756,
+                "length": 126,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 970,
+                "length": 126,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1040,
+                "length": 126,
+                "chart": "Nitro ~ABYSS~"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Dandelion",
+            "pack": "Arcaea",
+            "composer": "Farhan",
+            "release": "2017-03-20",
+            "update_version": "1.0.9",
+            "bpm": 169
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 391,
+                "length": 159,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 698,
+                "length": 159,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.5,
+                "notes": 921,
+                "length": 159,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Infinity Heaven",
+            "pack": "Arcaea",
+            "composer": "HyuN",
+            "release": "2017-04-12",
+            "update_version": "1.0.10",
+            "bpm": 160
+        },
+        "data": {
+            "Past": {
+                "level": "1",
+                "const": 1.5,
+                "notes": 336,
+                "length": 150,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 545,
+                "length": 150,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 853,
+                "length": 150,
+                "chart": "Nitro"
+            },
+            "Beyond": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 986,
+                "length": 150,
+                "chart": "Nitr∞"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Anökumene",
+            "pack": "Arcaea",
+            "composer": "Jun Kuroda",
+            "release": "2017-04-12",
+            "update_version": "1.0.10",
+            "bpm": 186
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 412,
+                "length": 114,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 588,
+                "length": 114,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.2,
+                "notes": 851,
+                "length": 114,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 971,
+                "length": 114,
+                "chart": "Astral Luxance"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Brand new world",
+            "pack": "Arcaea",
+            "composer": "U-ske",
+            "release": "2017-05-11",
+            "update_version": "1.0.11",
+            "bpm": 160
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.0,
+                "notes": 322,
+                "length": 144,
+                "chart": "Nitro 2.0"
+            },
+            "Present": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 432,
+                "length": 144,
+                "chart": "Nitro 2.0"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 787,
+                "length": 144,
+                "chart": "Nitro 2.0"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Chronostasis",
+            "pack": "Arcaea",
+            "composer": "黒皇帝",
+            "release": "2017-06-02",
+            "update_version": "1.1.0",
+            "bpm": 196
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 619,
+                "length": 134,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 812,
+                "length": 134,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.9,
+                "notes": 916,
+                "length": 134,
+                "chart": "Kurorak"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "神奈川電脳暗渠",
+            "pack": "Arcaea",
+            "composer": "南ゆに",
+            "release": "2017-06-02",
+            "update_version": "1.1.0",
+            "bpm": 180
+        },
+        "data": {
+            "Past": {
+                "level": "1",
+                "const": 1.0,
+                "notes": 375,
+                "length": 149,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 707,
+                "length": 149,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.0,
+                "notes": 1111,
+                "length": 149,
+                "chart": "Nitro"
+            },
+            "Beyond": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1121,
+                "length": 149,
+                "chart": "Exschwas↓on"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "クロートーと星の観測者",
+            "pack": "Arcaea",
+            "composer": "しーけー",
+            "release": "2017-06-23",
+            "update_version": "1.1.2",
+            "bpm": 230
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.0,
+                "notes": 519,
+                "length": 139,
+                "chart": "小東星"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 745,
+                "length": 139,
+                "chart": "小東星"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 1021,
+                "length": 139,
+                "chart": "小東星"
+            },
+            "Eternal": {
+                "level": "8+",
+                "const": 8.8,
+                "notes": 1031,
+                "length": 139,
+                "chart": "eién"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Ignotus",
+            "pack": "Arcaea",
+            "composer": "ak+q",
+            "release": "2017-07-18",
+            "update_version": "1.1.3",
+            "bpm": 170
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 579,
+                "length": 147,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 809,
+                "length": 147,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 1225,
+                "length": 147,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "level": "9+",
+                "const": 9.3,
+                "notes": 1077,
+                "length": 140,
+                "chart": "Toaster × 石樂"
+            }
+        }
     }
 ]
