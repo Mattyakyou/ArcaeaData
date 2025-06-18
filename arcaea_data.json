@@ -123,5 +123,1748 @@
                 "chart": "石樂"
             }
         }
+    },
+    {
+        "meta": {
+            "title": "Rise",
+            "pack": "Arcaea",
+            "composer": "Combatplayer",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Light",
+            "length": 143,
+            "bpm_min": 140,
+            "bpm_max": 140
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 322,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 599,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 788,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Lucifer",
+            "pack": "Arcaea",
+            "composer": "chitose",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Conflict",
+            "length": 132,
+            "bpm_min": 165,
+            "bpm_max": 165
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 424,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 506,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.2,
+                "notes": 861,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Snow White",
+            "pack": "Arcaea",
+            "composer": "Puru",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Light",
+            "length": 148,
+            "bpm_min": 150,
+            "bpm_max": 150
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 486,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 672,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.4,
+                "notes": 978,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "title": "Snow White",
+                "bpm-min": 150,
+                "bpm-max": 150,
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1031,
+                "length": 148,
+                "chart": "én + Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Shades of Light in a Transcendent Realm",
+            "pack": "Arcaea",
+            "composer": "ak+q",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Light",
+            "length": 151,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 517,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 789,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.3,
+                "notes": 1067,
+                "chart": "Nitro"
+            },
+            "Beyond": {
+                "title": "Shades of Light in a Transcendent Realm",
+                "bpm-min": 170,
+                "bpm-max": 170,
+                "level": "9",
+                "const": 9.1,
+                "notes": 1042,
+                "length": 151,
+                "chart": "N↑TRO"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Babaroque",
+            "pack": "Arcaea",
+            "composer": "cYsmix",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Light",
+            "length": 149,
+            "bpm_min": 136,
+            "bpm_max": 136
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 402,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 645,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.5,
+                "notes": 808,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Lost Civilization",
+            "pack": "Arcaea",
+            "composer": "Laur vs CK",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Conflict",
+            "length": 125,
+            "bpm_min": 75,
+            "bpm_max": 210
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 462,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 690,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.2,
+                "notes": 986,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "title": "Lost Civilization",
+                "bpm-min": 75,
+                "bpm-max": 210,
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1061,
+                "length": 125,
+                "chart": "Nitro affected by Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "GOODTEK (Arcaea Edit)",
+            "pack": "Arcaea",
+            "composer": "EBIMAYO",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Light",
+            "length": 123,
+            "bpm_min": 190,
+            "bpm_max": 190
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 449,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 632,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 968,
+                "chart": "Nitro"
+            },
+            "Beyond": {
+                "title": "GOODTEK (Arcaea Edit)",
+                "bpm-min": 190,
+                "bpm-max": 190,
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1103,
+                "length": 123,
+                "chart": "GOODTOAST"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "qualia -ideaesthesia-",
+            "pack": "Arcaea",
+            "composer": "nitro",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Conflict",
+            "length": 148,
+            "bpm_min": 144,
+            "bpm_max": 144
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 550,
+                "chart": "-chartaesthesia-"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 875,
+                "chart": "-chartaesthesia-"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.1,
+                "notes": 1022,
+                "chart": "-chartaesthesia-"
+            },
+            "Beyond": {
+                "title": "qualia -ideaesthesia-",
+                "bpm-min": 144,
+                "bpm-max": 144,
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1288,
+                "length": 148,
+                "chart": "moonquay -end of chartaesthesia-"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Dement ~after legend~",
+            "pack": "Arcaea",
+            "composer": "Cosmograph",
+            "release": "2017-03-20",
+            "update_version": "1.0.9",
+            "side": "Conflict",
+            "length": 126,
+            "bpm_min": 210,
+            "bpm_max": 210
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 548,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 756,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 970,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "title": "Dement ~after legend~",
+                "bpm-min": 210,
+                "bpm-max": 210,
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1040,
+                "length": 126,
+                "chart": "Nitro ~ABYSS~"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Dandelion",
+            "pack": "Arcaea",
+            "composer": "Farhan",
+            "release": "2017-03-20",
+            "update_version": "1.0.9",
+            "side": "Light",
+            "length": 159,
+            "bpm_min": 169,
+            "bpm_max": 169
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 391,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 698,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.5,
+                "notes": 921,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Infinity Heaven",
+            "pack": "Arcaea",
+            "composer": "HyuN",
+            "release": "2017-04-12",
+            "update_version": "1.0.10",
+            "side": "Light",
+            "length": 150,
+            "bpm_min": 160,
+            "bpm_max": 160
+        },
+        "data": {
+            "Past": {
+                "level": "1",
+                "const": 1.5,
+                "notes": 336,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 545,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 853,
+                "chart": "Nitro"
+            },
+            "Beyond": {
+                "title": "Infinity Heaven",
+                "bpm-min": 160,
+                "bpm-max": 160,
+                "level": "9",
+                "const": 9.6,
+                "notes": 986,
+                "length": 150,
+                "chart": "Nitr∞"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Anökumene",
+            "pack": "Arcaea",
+            "composer": "Jun Kuroda",
+            "release": "2017-04-12",
+            "update_version": "1.0.10",
+            "side": "Conflict",
+            "length": 114,
+            "bpm_min": 186,
+            "bpm_max": 186
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 412,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 588,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.2,
+                "notes": 851,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "title": "Anökumene",
+                "bpm-min": 186,
+                "bpm-max": 186,
+                "level": "9+",
+                "const": 9.9,
+                "notes": 971,
+                "length": 114,
+                "chart": "Astral Luxance"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Brand new world",
+            "pack": "Arcaea",
+            "composer": "U-ske",
+            "release": "2017-05-11",
+            "update_version": "1.0.11",
+            "side": "Light",
+            "length": 144,
+            "bpm_min": 160,
+            "bpm_max": 160
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.0,
+                "notes": 322,
+                "chart": "Nitro 2.0"
+            },
+            "Present": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 432,
+                "chart": "Nitro 2.0"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 787,
+                "chart": "Nitro 2.0"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Chronostasis",
+            "pack": "Arcaea",
+            "composer": "黒皇帝",
+            "release": "2017-06-02",
+            "update_version": "1.1.0",
+            "side": "Conflict",
+            "length": 134,
+            "bpm_min": 196,
+            "bpm_max": 196
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 619,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 812,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.9,
+                "notes": 916,
+                "chart": "Kurorak"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "神奈川電脳暗渠",
+            "pack": "Arcaea",
+            "composer": "南ゆに",
+            "release": "2017-06-02",
+            "update_version": "1.1.0",
+            "side": "Light",
+            "length": 149,
+            "bpm_min": 180,
+            "bpm_max": 180
+        },
+        "data": {
+            "Past": {
+                "level": "1",
+                "const": 1.0,
+                "notes": 375,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 707,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.0,
+                "notes": 1111,
+                "chart": "Nitro"
+            },
+            "Beyond": {
+                "title": "神奈川電脳暗渠",
+                "bpm-min": 180,
+                "bpm-max": 180,
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1121,
+                "length": 149,
+                "chart": "Exschwas↓on"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "クロートーと星の観測者",
+            "pack": "Arcaea",
+            "composer": "しーけー",
+            "release": "2017-06-23",
+            "update_version": "1.1.2",
+            "side": "Light",
+            "length": 139,
+            "bpm_min": 230,
+            "bpm_max": 230
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.0,
+                "notes": 519,
+                "chart": "小東星"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 745,
+                "chart": "小東星"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 1021,
+                "chart": "小東星"
+            },
+            "Eternal": {
+                "level": "8+",
+                "const": 8.8,
+                "notes": 1031,
+                "chart": "eién"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Ignotus",
+            "pack": "Arcaea",
+            "composer": "ak+q",
+            "release": "2017-07-18",
+            "update_version": "1.1.3",
+            "side": "Conflict",
+            "length": 147,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 579,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 809,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 1225,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "title": "Ignotus Afterburn",
+                "bpm-min": 170,
+                "bpm-max": 170,
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1077,
+                "length": 140,
+                "chart": "Toaster × 石樂"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "ハルトピア ~Utopia of Spring~",
+            "pack": "Arcaea",
+            "composer": "A-zu-ra",
+            "release": "2017-08-10",
+            "update_version": "1.1.4",
+            "side": "Light",
+            "length": 141,
+            "bpm_min": 185,
+            "bpm_max": 185
+        },
+        "data": {
+            "Past": {
+                "level": "1",
+                "const": 1.0,
+                "notes": 444,
+                "chart": "トーストピア ~Utopia of Toast~"
+            },
+            "Present": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 706,
+                "chart": "トーストピア ~Utopia of Toast~"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.5,
+                "notes": 1061,
+                "chart": "トーストピア ~Utopia of Toast~"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Rabbit In The Black Room",
+            "pack": "Arcaea",
+            "composer": "Rabbit House",
+            "release": "2017-09-25",
+            "update_version": "1.1.6",
+            "side": "Conflict",
+            "length": 132,
+            "bpm_min": 270,
+            "bpm_max": 270
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 373,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 467,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.4,
+                "notes": 772,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "One Last Drive",
+            "pack": "Arcaea",
+            "composer": "REDSHiFT",
+            "release": "2017-11-03",
+            "update_version": "1.5.0",
+            "side": "Light",
+            "length": 145,
+            "bpm_min": 154,
+            "bpm_max": 175
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 604,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 564,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.2,
+                "notes": 885,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Dreamin' Attraction!!",
+            "pack": "Arcaea",
+            "composer": "翡乃イスカ",
+            "release": "2017-11-03",
+            "update_version": "1.5.0",
+            "side": "Light",
+            "length": 140,
+            "bpm_min": 205,
+            "bpm_max": 205
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 592,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 785,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 1129,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Red and Blue",
+            "pack": "Arcaea",
+            "composer": "Silentroom",
+            "release": "2017-11-03",
+            "update_version": "1.5.0",
+            "side": "Conflict",
+            "length": 122,
+            "bpm_min": 150,
+            "bpm_max": 150
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 464,
+                "chart": "-chartaesthesia- RED side"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 597,
+                "chart": "side BLUE -chartaesthesia-"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 845,
+                "chart": "-chartaesthesia- LEFT=BLUE RED=RIGHT"
+            },
+            "Beyond": {
+                "title": "Red and Blue and Green",
+                "bpm-min": 160,
+                "bpm-max": 160,
+                "level": "10",
+                "const": 10.2,
+                "notes": 1194,
+                "length": 151,
+                "chart": "moonquay \"retrograde\" BLUE=LEFT RIGHT=RED"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Reinvent",
+            "pack": "Arcaea",
+            "composer": "Sound Souler",
+            "release": "2017-12-21",
+            "update_version": "1.5.3",
+            "side": "Light",
+            "length": 146,
+            "bpm_min": 174,
+            "bpm_max": 174
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 570,
+                "chart": "k//eternal"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 703,
+                "chart": "k//eternal"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.5,
+                "notes": 852,
+                "chart": "k//eternal + nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Syro",
+            "pack": "Arcaea",
+            "composer": "Mitomoro",
+            "release": "2017-12-21",
+            "update_version": "1.5.3",
+            "side": "Light",
+            "length": 141,
+            "bpm_min": 178,
+            "bpm_max": 178
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 535,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 829,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 1150,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Blaster",
+            "pack": "Arcaea",
+            "composer": "Massive New Krew",
+            "release": "2018-03-09",
+            "update_version": "1.5.7",
+            "side": "Conflict",
+            "length": 137,
+            "bpm_min": 180,
+            "bpm_max": 180
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 571,
+                "chart": "k//urorak"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 635,
+                "chart": "k//urorak"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 1002,
+                "chart": "k//urorak"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Cybernecia Catharsis",
+            "pack": "Arcaea",
+            "composer": "Tanchiky",
+            "release": "2018-06-01",
+            "update_version": "1.6.4",
+            "side": "Conflict",
+            "length": 135,
+            "bpm_min": 184,
+            "bpm_max": 184
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 377,
+                "chart": "Kero"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 655,
+                "chart": "Kero"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 946,
+                "chart": "Kero + Nitro"
+            },
+            "Beyond": {
+                "title": "Cybernecia Catharsis",
+                "bpm-min": 184,
+                "bpm-max": 184,
+                "level": "9+",
+                "const": 9.8,
+                "notes": 991,
+                "length": 135,
+                "chart": "antymis"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "inkar-usi",
+            "pack": "Arcaea",
+            "composer": "DIA",
+            "release": "2018-06-22",
+            "update_version": "1.6.6",
+            "side": "Light",
+            "length": 143,
+            "bpm_min": 102,
+            "bpm_max": 102
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.0,
+                "notes": 276,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 326,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 463,
+                "chart": "Kurorak"
+            },
+            "Beyond": {
+                "title": "inkar-usi",
+                "bpm-min": 102,
+                "bpm-max": 102,
+                "level": "9",
+                "const": 9.4,
+                "notes": 857,
+                "length": 143,
+                "chart": "CERiNG"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Suomi",
+            "pack": "Arcaea",
+            "composer": "Aire",
+            "release": "2018-07-16",
+            "update_version": "1.7.0",
+            "side": "Light",
+            "length": 129,
+            "bpm_min": 125,
+            "bpm_max": 125
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.0,
+                "notes": 368,
+                "chart": "Toastie"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 550,
+                "chart": "Toastie"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 818,
+                "chart": "Toastie"
+            },
+            "Eternal": {
+                "level": "8+",
+                "const": 8.9,
+                "notes": 732,
+                "chart": "CERiNG"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Bookmaker (2D Version)",
+            "pack": "Arcaea",
+            "composer": "Kobaryo",
+            "release": "2018-07-16",
+            "update_version": "1.7.0",
+            "side": "Conflict",
+            "length": 149,
+            "bpm_min": 175,
+            "bpm_max": 175
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 538,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 728,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.3,
+                "notes": 1124,
+                "chart": "Kurorak"
+            },
+            "Beyond": {
+                "title": "Bookmaker (2D Version)",
+                "bpm-min": 175,
+                "bpm-max": 175,
+                "level": "10",
+                "const": 10.0,
+                "notes": 1287,
+                "length": 149,
+                "chart": "Toastmaker"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "堕楽の園",
+            "pack": "Arcaea",
+            "composer": "gmtn. (witch's slave)",
+            "release": "2018-07-16",
+            "update_version": "1.7.0",
+            "side": "Conflict",
+            "length": 144,
+            "bpm_min": 168,
+            "bpm_max": 168
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.0,
+                "notes": 535,
+                "chart": "k//eternal"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 585,
+                "chart": "k//eternal"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 1061,
+                "chart": "k//eternal + nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Nhelv",
+            "pack": "Arcaea",
+            "composer": "Silentroom",
+            "release": "2018-08-13",
+            "update_version": "1.7.2",
+            "side": "Conflict",
+            "length": 159,
+            "bpm_min": 174.59,
+            "bpm_max": 174.59
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 647,
+                "chart": "Nitro「Katastrophe」"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 913,
+                "chart": "Nitro「Katastrophe」"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1108,
+                "chart": "Nitro「Katastrophe」"
+            },
+            "Beyond": {
+                "title": "Nhelv",
+                "bpm-min": 174.59,
+                "bpm-max": 174.59,
+                "level": "10+",
+                "const": 10.9,
+                "notes": 1474,
+                "length": 159,
+                "chart": "零下 -descent-"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "白道、多希望羊と信じありく。",
+            "pack": "Arcaea",
+            "composer": "Apo11o program ft. 大瀬良あい",
+            "release": "2018-08-31",
+            "update_version": "1.7.4",
+            "side": "Conflict",
+            "length": 141,
+            "bpm_min": 192,
+            "bpm_max": 192
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 624,
+                "chart": "月刊Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 757,
+                "chart": "月刊Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 1058,
+                "chart": "月刊Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Purgatorium",
+            "pack": "Arcaea",
+            "composer": "お月さま交響曲",
+            "release": "2018-09-17",
+            "update_version": "1.7.5",
+            "side": "Conflict",
+            "length": 151,
+            "bpm_min": 150,
+            "bpm_max": 150
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 609,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 641,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.4,
+                "notes": 983,
+                "chart": "Kurorak"
+            },
+            "Beyond": {
+                "title": "Purgatorium",
+                "bpm-min": 150,
+                "bpm-max": 150,
+                "level": "9",
+                "const": 9.6,
+                "notes": 1051,
+                "length": 151,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Rugie",
+            "pack": "Arcaea",
+            "composer": "Feryquitous feat.Sennzai",
+            "release": "2018-11-08",
+            "update_version": "1.8.1",
+            "side": "Conflict",
+            "length": 144,
+            "bpm_min": 191,
+            "bpm_max": 191
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 566,
+                "chart": "k//urorak"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 754,
+                "chart": "k//urorak"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.2,
+                "notes": 975,
+                "chart": "k//urorak"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Grimheart",
+            "pack": "Arcaea",
+            "composer": "Puru",
+            "release": "2019-03-21",
+            "update_version": "2.0.0",
+            "side": "Light",
+            "length": 150,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 728,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 699,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.7,
+                "notes": 959,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "ReviXy",
+            "pack": "Arcaea",
+            "composer": "ikaruga_nex",
+            "release": "2019-03-21",
+            "update_version": "2.0.0",
+            "side": "Conflict",
+            "length": 158,
+            "bpm_min": 115,
+            "bpm_max": 185
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 538,
+                "chart": "Revoke Kurorak"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 729,
+                "chart": "Revoke Kurorak"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.1,
+                "notes": 1047,
+                "chart": "Revoke Kurorak"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "VECTOЯ",
+            "pack": "Arcaea",
+            "composer": "WHITEFISTS",
+            "release": "2019-05-02",
+            "update_version": "2.0.3",
+            "side": "Conflict",
+            "length": 141,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 675,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 1002,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 1299,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "SUPERNOVA",
+            "pack": "Arcaea",
+            "composer": "BACO",
+            "release": "2019-05-02",
+            "update_version": "2.0.3",
+            "side": "Conflict",
+            "length": 158,
+            "bpm_min": 150,
+            "bpm_max": 150
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 664,
+                "chart": "東超新星"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 564,
+                "chart": "東超新星"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1123,
+                "chart": "東超新星"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Diode",
+            "pack": "Arcaea",
+            "composer": "Kolaa",
+            "release": "2019-10-08",
+            "update_version": "2.4.0",
+            "side": "Light",
+            "length": 140,
+            "bpm_min": 132,
+            "bpm_max": 132
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 452,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 472,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.1,
+                "notes": 709,
+                "chart": "Kurorak"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "FREEF4LL",
+            "pack": "Arcaea",
+            "composer": "YUKIYANAGI",
+            "release": "2019-10-08",
+            "update_version": "2.4.0",
+            "side": "Conflict",
+            "length": 150,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 589,
+                "chart": "N↓TRO"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 782,
+                "chart": "N↓TRO"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.6,
+                "notes": 1023,
+                "chart": "N↓TRO"
+            },
+            "Beyond": {
+                "title": "FREEF4LL",
+                "bpm-min": 170,
+                "bpm-max": 170,
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1336,
+                "length": 150,
+                "chart": "TO4STER"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Monochrome Princess",
+            "pack": "Arcaea",
+            "composer": "polysha",
+            "release": "2019-10-26",
+            "update_version": "2.4.3",
+            "side": "Conflict",
+            "length": 137,
+            "bpm_min": 160,
+            "bpm_max": 160
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 621,
+                "chart": "N↕TRO"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 756,
+                "chart": "N↕TRO"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 974,
+                "chart": "N↕TRO"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Senkyou",
+            "pack": "Arcaea",
+            "composer": "MYTK",
+            "release": "2019-11-18",
+            "update_version": "2.4.5",
+            "side": "Light",
+            "length": 147,
+            "bpm_min": 90,
+            "bpm_max": 90
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 627,
+                "chart": "k//eternal"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 722,
+                "chart": "k//eternal"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.7,
+                "notes": 964,
+                "chart": "k//eternal"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "world.execute(me);",
+            "pack": "Arcaea",
+            "composer": "Mili",
+            "release": "2020-02-21",
+            "update_version": "2.5.2",
+            "side": "Light",
+            "length": 151,
+            "bpm_min": 130,
+            "bpm_max": 130
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 452,
+                "chart": "toaster.chart(this);"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 582,
+                "chart": "toaster.chart(this);"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.0,
+                "notes": 851,
+                "chart": "toaster.chart(this);"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Oblivia",
+            "pack": "Arcaea",
+            "composer": "Saiph",
+            "release": "2020-03-25",
+            "update_version": "2.6.0",
+            "side": "Light",
+            "length": 148,
+            "bpm_min": 180,
+            "bpm_max": 180
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 574,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 517,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.3,
+                "notes": 956,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "title": "Oblivia",
+                "bpm-min": 180,
+                "bpm-max": 180,
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1021,
+                "length": 148,
+                "chart": "Nitro「The Forgotten」"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Ävril -Flicka i krans-",
+            "pack": "Arcaea",
+            "composer": "Rigël Theatre",
+            "release": "2022-02-17",
+            "update_version": "3.12.0",
+            "side": "Light",
+            "length": 165,
+            "bpm_min": 130,
+            "bpm_max": 130
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 459,
+                "chart": "Aster -Får i Vaaris-"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 607,
+                "chart": "Aster -Får i Vaaris-"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.3,
+                "notes": 851,
+                "chart": "Aster -Får i Vaaris-"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Sakura Fubuki",
+            "pack": "Arcaea",
+            "composer": "Street",
+            "release": "2022-02-17",
+            "update_version": "3.12.0",
+            "side": "Light",
+            "length": 120,
+            "bpm_min": 175,
+            "bpm_max": 175
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 526,
+                "chart": "én"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 571,
+                "chart": "én"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 837,
+                "chart": "én"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "NULCTRL",
+            "pack": "Arcaea",
+            "composer": "Silentroom",
+            "release": "2022-02-17",
+            "update_version": "3.12.0",
+            "side": "Conflict",
+            "length": 152,
+            "bpm_min": 100,
+            "bpm_max": 100
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 407,
+                "chart": "moonquay [CON]"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 410,
+                "chart": "moonquay [AUX]"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 715,
+                "chart": "moonquay [NUL]"
+            }
+        }
     }
 ]
