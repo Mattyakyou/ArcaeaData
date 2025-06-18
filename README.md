@@ -7,3 +7,4 @@ arcaea_data.jsonにジャケットを担当したイラストレーターを除�
 Discordのアカウントを知っていたらDMしてください。
 知らなかった場合、Twitter(現X)のアカウントです。
 https://x.com/mattyakyou_game
+なんでBeyondで曲変わるん？めっちゃ困ってる
