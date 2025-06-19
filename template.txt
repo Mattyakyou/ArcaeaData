@@ -1,0 +1,50 @@
+
+    {
+        "meta": {
+            "title": "",
+            "pack": "",
+            "composer": "",
+            "release": "yyyy-mm-dd",
+            "update_version": "0.0.0",
+            "side":"",
+	        "length":,
+            "bpm_min": ,
+            "bpm_max": 
+        },
+        "data": {
+            "Past": {
+                "level": "",
+                "const": ,
+                "notes": ,
+                "chart": ""
+            },
+            "Present": {
+                "level": "",
+                "const": ,
+                "notes": ,
+                "chart": ""
+            },
+            "Future": {
+                "level": "",
+                "const": ,
+                "notes": ,
+                "chart": ""
+            },
+            "Eternal": {
+                "level": "",
+                "const": ,
+                "notes": ,
+                "chart": ""
+            },
+            "Beyond": {
+		"title":"",
+		"bpm-min":,
+		"bpm-max":,
+                "level": "",
+                "const": ,
+                "notes": ,
+                "length": ,
+                "chart": ""
+            }
+        }
+    }

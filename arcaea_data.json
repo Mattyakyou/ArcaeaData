@@ -1866,5 +1866,380 @@
                 "chart": "moonquay [NUL]"
             }
         }
+    },
+    {
+        "meta": {
+            "title": "DDD",
+            "pack": "Arcaea",
+            "composer": "はがね",
+            "release": "2022-03-23",
+            "update_version": "3.12.4",
+            "side": "Light",
+            "length": 114,
+            "bpm_min": 138,
+            "bpm_max": 138
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 363,
+                "chart": "én"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 484,
+                "chart": "én"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.5,
+                "notes": 653,
+                "chart": "én"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "ネコノテ・カリタガール",
+            "pack": "Arcaea",
+            "composer": "Ino(chronoize)",
+            "release": "2022-04-28",
+            "update_version": "3.12.8",
+            "side": "Light",
+            "length": 137,
+            "bpm_min": 148,
+            "bpm_max": 148
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 417,
+                "chart": "antymis"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 593,
+                "chart": "antymis"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.2,
+                "notes": 891,
+                "chart": "antymis"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "san skia",
+            "pack": "Arcaea",
+            "composer": "ユアミトス",
+            "release": "2022-05-25",
+            "update_version": "3.12.10",
+            "side": "Light",
+            "length": 167,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 670,
+                "chart": "CERiNG"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 783,
+                "chart": "CERiNG"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.3,
+                "notes": 1046,
+                "chart": "CERiNG"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Altair (feat. *spiLa*)",
+            "pack": "Arcaea",
+            "composer": "kamome sano & you",
+            "release": "2022-07-07",
+            "update_version": "4.0.0",
+            "side": "Light",
+            "length": 141,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 670,
+                "chart": "antymis"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 828,
+                "chart": "antymis"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.5,
+                "notes": 830,
+                "chart": "antymis"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "無機質世界に彩を",
+            "pack": "Arcaea",
+            "composer": "MisomyL",
+            "release": "2022-07-07",
+            "update_version": "4.0.0",
+            "side": "Light",
+            "length": 152,
+            "bpm_min": 155,
+            "bpm_max": 155
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 568,
+                "chart": "antymis ~無色~"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 680,
+                "chart": "antymis ~彩色~"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 886,
+                "chart": "antymis ~虹色~"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Trap Crow",
+            "pack": "Arcaea",
+            "composer": "Puru",
+            "release": "2022-07-07",
+            "update_version": "4.0.0",
+            "side": "Conflict",
+            "length": 167,
+            "bpm_min": 80,
+            "bpm_max": 80
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 876,
+                "chart": "CERiNG + Nitro"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 898,
+                "chart": "CERiNG + Nitro"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1074,
+                "chart": "CERiNG + Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "だいあるのーと",
+            "pack": "Arcaea",
+            "composer": "七草くりむ",
+            "release": "2022-12-22",
+            "update_version": "4.1.6",
+            "side": "Light",
+            "length": 121,
+            "bpm_min": 130,
+            "bpm_max": 130
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 393,
+                "chart": "Nitroです。"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 548,
+                "chart": "Nitroです。"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.8,
+                "notes": 684,
+                "chart": "Nitroです。"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Remind the Souls (Short Version)",
+            "pack": "Arcaea",
+            "composer": "Nhato",
+            "release": "2023-09-27",
+            "update_version": "5.0.0",
+            "side": "Light",
+            "length": 159,
+            "bpm_min": 130,
+            "bpm_max": 130
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 561,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 756,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 945,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "The Formula",
+            "pack": "Arcaea",
+            "composer": "Junk",
+            "release": "2024-01-25",
+            "update_version": "5.3.0",
+            "side": "Light",
+            "length": 143,
+            "bpm_min": 144,
+            "bpm_max": 144
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 427,
+                "chart": "Dec18"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 587,
+                "chart": "Dec18"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 957,
+                "chart": "Dec18"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Jingle",
+            "pack": "Arcaea",
+            "composer": "DJ Noriken",
+            "release": "2024-03-08",
+            "update_version": "5.4.0",
+            "side": "Light",
+            "length": 167,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 530,
+                "chart": "Exschwasion"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 741,
+                "chart": "Exschwasion"
+            },
+            "Future": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 848,
+                "chart": "Exschwasion"
+            },
+            "Eternal": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 1047,
+                "chart": "KLMNOP"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "エピクロスの虹はもう見えない",
+            "pack": "Arcaea",
+            "composer": "SYNC․ART'S feat.Misato",
+            "release": "2024-05-30",
+            "update_version": "5.7.0",
+            "side": "Light",
+            "length": 144,
+            "bpm_min": 155,
+            "bpm_max": 155
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 595,
+                "chart": "Dec18"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 644,
+                "chart": "Dec18"
+            },
+            "Future": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 783,
+                "chart": "Dec18"
+            },
+            "Eternal": {
+                "level": "8+",
+                "const": 8.8,
+                "notes": 884,
+                "chart": "Dec18"
+            }
+        }
     }
 ]
