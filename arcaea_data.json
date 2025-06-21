@@ -2241,5 +2241,2088 @@
                 "chart": "Dec18"
             }
         }
+    },
+    {
+        "meta": {
+            "title": "DataErr0r",
+            "pack": "Memory Archive",
+            "composer": "Cosmograph",
+            "release": "2017-06-02",
+            "update_version": "1.1.0",
+            "side": "Conflict",
+            "length": 126,
+            "bpm_min": 180,
+            "bpm_max": 180
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 502,
+                "chart": "ToastErr0r"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 785,
+                "chart": "ToastErr0r"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 955,
+                "chart": "ToastErr0r"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "CROSS†SOUL",
+            "pack": "Memory Archive",
+            "composer": "HyuN feat. Syepias",
+            "release": "2017-06-02",
+            "update_version": "1.1.0",
+            "side": "Conflict",
+            "length": 140,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 606,
+                "chart": "k//eternal"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 823,
+                "chart": "k//eternal"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 1081,
+                "chart": "k//eternal"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Your voice so... feat. Such",
+            "pack": "Memory Archive",
+            "composer": "PSYQUI",
+            "release": "2017-06-02",
+            "update_version": "1.1.0",
+            "side": "Light",
+            "length": 150,
+            "bpm_min": 176,
+            "bpm_max": 176
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 469,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 677,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 1013,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "不浄な白い鳥",
+            "pack": "Memory Archive",
+            "composer": "MIssionary",
+            "release": "2017-07-18",
+            "update_version": "1.1.3",
+            "side": "Light",
+            "length": 116,
+            "bpm_min": 184,
+            "bpm_max": 184
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.0,
+                "notes": 350,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 518,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 805,
+                "chart": "Kurorak"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Auxesia",
+            "pack": "Memory Archive",
+            "composer": "ginkiha",
+            "release": "2017-08-11",
+            "update_version": "1.1.4",
+            "side": "Light",
+            "length": 122,
+            "bpm_min": 183,
+            "bpm_max": 183
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 385,
+                "chart": "Nitroだー！！"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 648,
+                "chart": "Nitroだー！"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 1000,
+                "chart": "Nitroだー！"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Modelista",
+            "pack": "Memory Archive",
+            "composer": "HiTECH NINJA",
+            "release": "2017-09-25",
+            "update_version": "1.1.6",
+            "side": "Light",
+            "length": 128,
+            "bpm_min": 165,
+            "bpm_max": 165
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 418,
+                "chart": "NITRO"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 691,
+                "chart": "NITRO"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1010,
+                "chart": "NITRO"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Surrender",
+            "pack": "Memory Archive",
+            "composer": "void",
+            "release": "2017-11-24",
+            "update_version": "1.5.2",
+            "side": "Light",
+            "length": 150,
+            "bpm_min": 152,
+            "bpm_max": 152
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 550,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 721,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.8,
+                "notes": 925,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "夜桜吹雪",
+            "pack": "Memory Archive",
+            "composer": "A.SAKA",
+            "release": "2017-11-24",
+            "update_version": "1.5.2",
+            "side": "Light",
+            "length": 132,
+            "bpm_min": 172,
+            "bpm_max": 172
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 416,
+                "chart": "k//eternal"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 582,
+                "chart": "k//eternal"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 931,
+                "chart": "k//eternal"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Metallic Punisher",
+            "pack": "Memory Archive",
+            "composer": "INNOCENT NOIZE",
+            "release": "2018-02-16",
+            "update_version": "1.5.6",
+            "side": "Conflict",
+            "length": 143,
+            "bpm_min": 165,
+            "bpm_max": 165
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 500,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 846,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.3,
+                "notes": 1238,
+                "chart": "Black Tea"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "carmine:scythe",
+            "pack": "Memory Archive",
+            "composer": "かゆき",
+            "release": "2018-04-29",
+            "update_version": "1.6.2",
+            "side": "Conflict",
+            "length": 146,
+            "bpm_min": 165,
+            "bpm_max": 165
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 493,
+                "chart": "週刊Toaster"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 710,
+                "chart": "週刊Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 1164,
+                "chart": "週刊Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "γuarδina",
+            "pack": "Memory Archive",
+            "composer": "Aoi",
+            "release": "2018-05-03",
+            "update_version": "1.6.2",
+            "side": "Light",
+            "length": 132,
+            "bpm_min": 202,
+            "bpm_max": 202
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 507,
+                "chart": "τoastεr"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.0,
+                "notes": 678,
+                "chart": "τoastεr"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.4,
+                "notes": 1120,
+                "chart": "τoastεr"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Be There",
+            "pack": "Memory Archive",
+            "composer": "PSYQUI",
+            "release": "2018-06-01",
+            "update_version": "1.6.4",
+            "side": "Light",
+            "length": 133,
+            "bpm_min": 164,
+            "bpm_max": 164
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 592,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 792,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 982,
+                "chart": "Be Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Call My Name feat. Yukacco",
+            "pack": "Memory Archive",
+            "composer": "Mameyudoufu",
+            "release": "2018-06-22",
+            "update_version": "1.6.6",
+            "side": "Light",
+            "length": 148,
+            "bpm_min": 175,
+            "bpm_max": 175
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 591,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 653,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.7,
+                "notes": 921,
+                "chart": "Kuro my Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "dropdead",
+            "pack": "Memory Archive",
+            "composer": "Frums",
+            "release": "2018-08-13",
+            "update_version": "1.7.2",
+            "side": "Conflict",
+            "length": 137,
+            "bpm_min": 50,
+            "bpm_max": 50
+        },
+        "data": {
+            "Past": {
+                "level": "1",
+                "const": 1.5,
+                "notes": 44,
+                "chart": "-chartaesthesia- LIMITER:10%"
+            },
+            "Present": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 1323,
+                "chart": "-chartaesthesia- LIMITER:100%"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 9.1,
+                "notes": 823,
+                "chart": "-chartaesthesia- LIMITER:25% (OVERDRIVE:+100%)"
+            },
+            "Beyond": {
+                "title": "overdead.",
+                "bpm-min": 500,
+                "bpm-max": 500,
+                "level": "10",
+                "const": 10.5,
+                "notes": 1503,
+                "length": 157,
+                "chart": "絶滅 over 夜浪."
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Fallensquare",
+            "pack": "Memory Archive",
+            "composer": "Silentroom",
+            "release": "2018-08-13",
+            "update_version": "1.7.2",
+            "side": "Conflict",
+            "length": 154,
+            "bpm_min": 99,
+            "bpm_max": 99
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 316,
+                "chart": "Haruba"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 486,
+                "chart": "Haruba"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 703,
+                "chart": "Haruba"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Alexandrite",
+            "pack": "Memory Archive",
+            "composer": "WAiKURO",
+            "release": "2018-09-17",
+            "update_version": "1.7.5",
+            "side": "Conflict",
+            "length": 140,
+            "bpm_min": 146,
+            "bpm_max": 146
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 507,
+                "chart": "東星※空の宝石"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 699,
+                "chart": "東星※空の宝石"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.0,
+                "notes": 1040,
+                "chart": "東星※空の宝石"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Astral tale",
+            "pack": "Memory Archive",
+            "composer": "Noah",
+            "release": "2018-11-08",
+            "update_version": "1.8.1",
+            "side": "Conflict",
+            "length": 150,
+            "bpm_min": 134,
+            "bpm_max": 134
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 445,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 642,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 884,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Phantasia",
+            "pack": "Memory Archive",
+            "composer": "Yunosuke",
+            "release": "2018-11-29",
+            "update_version": "1.8.2",
+            "side": "Light",
+            "length": 158,
+            "bpm_min": 153,
+            "bpm_max": 153
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 544,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 579,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.2,
+                "notes": 952,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Empire of Winter",
+            "pack": "Memory Archive",
+            "composer": "Street",
+            "release": "2018-12-22",
+            "update_version": "1.8.3",
+            "side": "Light",
+            "length": 140,
+            "bpm_min": 175,
+            "bpm_max": 175
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 484,
+                "chart": "0°Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 662,
+                "chart": "0°Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.1,
+                "notes": 920,
+                "chart": "0°Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Libertas",
+            "pack": "Memory Archive",
+            "composer": "Zekk",
+            "release": "2019-02-11",
+            "update_version": "1.9.2",
+            "side": "Light",
+            "length": 134,
+            "bpm_min": 160,
+            "bpm_max": 160
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 476,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 514,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.2,
+                "notes": 947,
+                "chart": "Kurorak + Nitro"
+            },
+            "Beyond": {
+                "title": "Libertas",
+                "bpm-min": 160,
+                "bpm-max": 160,
+                "level": "10",
+                "const": 10.5,
+                "notes": 1048,
+                "length": 134,
+                "chart": "Exschwasion -unbound-"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Dot to Dot feat. shully",
+            "pack": "Memory Archive",
+            "composer": "Mameyudoufu",
+            "release": "2019-05-02",
+            "update_version": "2.0.3",
+            "side": "Light",
+            "length": 127,
+            "bpm_min": 174,
+            "bpm_max": 174
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 453,
+                "chart": "•Nitro•"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 522,
+                "chart": "•Nitro•"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.3,
+                "notes": 739,
+                "chart": "•Nitro•"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Dreadnought",
+            "pack": "Memory Archive",
+            "composer": "Mastermind (xi + nora2r)",
+            "release": "2019-07-18",
+            "update_version": "2.2.0",
+            "side": "Conflict",
+            "length": 140,
+            "bpm_min": 96,
+            "bpm_max": 384
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 715,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 897,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1099,
+                "chart": "Astronomer (Toaster + 東星)"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Mirzam",
+            "pack": "Memory Archive",
+            "composer": "Aoi vs. siqlo",
+            "release": "2019-09-05",
+            "update_version": "2.3.2",
+            "side": "Conflict",
+            "length": 150,
+            "bpm_min": 201,
+            "bpm_max": 201
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 662,
+                "chart": "東星※おおいぬ座β星"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 885,
+                "chart": "東星※おおいぬ座β星"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1303,
+                "chart": "東星※おおいぬ座β星"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Heavenly caress",
+            "pack": "Memory Archive",
+            "composer": "Noah",
+            "release": "2019-10-26",
+            "update_version": "2.4.3",
+            "side": "Light",
+            "length": 132,
+            "bpm_min": 241,
+            "bpm_max": 241
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 855,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 909,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1560,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Filament",
+            "pack": "Memory Archive",
+            "composer": "Puru",
+            "release": "2019-11-18",
+            "update_version": "2.4.5",
+            "side": "Light",
+            "length": 141,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 582,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 780,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 991,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Avant Raze",
+            "pack": "Memory Archive",
+            "composer": "Sampling Masters MEGA",
+            "release": "2019-12-09",
+            "update_version": "2.4.7",
+            "side": "Conflict",
+            "length": 129,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 580,
+                "chart": "Avant Toast"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 727,
+                "chart": "Avant Toast"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 1125,
+                "chart": "Avant Toast"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "BATTLE NO.1",
+            "pack": "Memory Archive",
+            "composer": "TANO*C Sound Team",
+            "release": "2020-01-15",
+            "update_version": "2.4.9",
+            "side": "Conflict",
+            "length": 132,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 476,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 677,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1042,
+                "chart": "Arcaea Team"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "La'qryma of the Wasteland",
+            "pack": "Memory Archive",
+            "composer": "DJ Noriken",
+            "release": "2020-01-21",
+            "update_version": "2.5.0",
+            "side": "Conflict",
+            "length": 143,
+            "bpm_min": 168,
+            "bpm_max": 168
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 447,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 651,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.1,
+                "notes": 956,
+                "chart": "Toaster"
+            },
+            "Beyond": {
+                "title": "La'qryma of the Wasteland",
+                "bpm-min": 168,
+                "bpm-max": 168,
+                "level": "10",
+                "const": 10,
+                "notes": 1161,
+                "length": 143,
+                "chart": "Nitro「The Forsaken」"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Einherjar Joker",
+            "pack": "Memory Archive",
+            "composer": "DJ Genki vs Gram",
+            "release": "2020-01-21",
+            "update_version": "2.5.0",
+            "side": "Conflict",
+            "length": 138,
+            "bpm_min": 222,
+            "bpm_max": 222
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 582,
+                "chart": "Requiem TaroNuke"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 767,
+                "chart": "Requiem TaroNuke"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1159,
+                "chart": "Requiem TaroNuke"
+            },
+            "Beyond": {
+                "title": "Einherjar Joker",
+                "bpm-min": 222,
+                "bpm-max": 222,
+                "level": "10+",
+                "const": 10.9,
+                "notes": 1857,
+                "length": 138,
+                "chart": "~REQUIEM~ 夜浪"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "IZANA",
+            "pack": "Memory Archive",
+            "composer": "t+pazolite vs P*Light",
+            "release": "2020-01-21",
+            "update_version": "2.5.0",
+            "side": "Light",
+            "length": 123,
+            "bpm_min": 222,
+            "bpm_max": 222
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 609,
+                "chart": "NITRO"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.3,
+                "notes": 836,
+                "chart": "NITRO"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.3,
+                "notes": 976,
+                "chart": "NITRO"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "最強STRONGER",
+            "pack": "Memory Archive",
+            "composer": "REDALiCE vs USAO",
+            "release": "2020-01-21",
+            "update_version": "2.5.0",
+            "side": "Conflict",
+            "length": 144,
+            "bpm_min": 205,
+            "bpm_max": 205
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 654,
+                "chart": "最強FUMEN (夜浪 ft. 東星)"
+            },
+            "Present": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 1067,
+                "chart": "最強FUMEN (夜浪 ft. 東星)"
+            },
+            "Future": {
+                "level": "11",
+                "const": 11.0,
+                "notes": 1384,
+                "chart": "最強FUMEN (夜浪 ft. 東星)"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "amygdata",
+            "pack": "Memory Archive",
+            "composer": "nitro",
+            "release": "2020-03-25",
+            "update_version": "2.6.0",
+            "side": "Conflict",
+            "length": 160,
+            "bpm_min": 154,
+            "bpm_max": 154
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 504,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 711,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1199,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Altale",
+            "pack": "Memory Archive",
+            "composer": "Sakuzyo",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Light",
+            "length": 157,
+            "bpm_min": 83,
+            "bpm_max": 90
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 357,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 424,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 690,
+                "chart": "Kurorak"
+            },
+            "Beyond": {
+                "title": "Altale",
+                "bpm-min": 83,
+                "bpm-max": 90,
+                "level": "10",
+                "const": 10,
+                "notes": 1074,
+                "length": 157,
+                "chart": "nora::neko << fantasy"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Feels So Right feat. Renko",
+            "pack": "Memory Archive",
+            "composer": "Mysteka",
+            "release": "2020-07-08",
+            "update_version": "3.0.3",
+            "side": "Light",
+            "length": 134,
+            "bpm_min": 180,
+            "bpm_max": 180
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 594,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 636,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 947,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Scarlet Cage",
+            "pack": "Memory Archive",
+            "composer": "Daisuke Kurosawa",
+            "release": "2020-07-08",
+            "update_version": "3.0.3",
+            "side": "Conflict",
+            "length": 156,
+            "bpm_min": 166,
+            "bpm_max": 166
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 570,
+                "chart": "赤Nitro"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 711,
+                "chart": "赤Nitro"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1195,
+                "chart": "赤Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Teriqma",
+            "pack": "Memory Archive",
+            "composer": "owl＊tree",
+            "release": "2020-07-16",
+            "update_version": "3.0.5",
+            "side": "Conflict",
+            "length": 145,
+            "bpm_min": 128,
+            "bpm_max": 128
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 345,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 579,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 873,
+                "chart": "Nitro"
+            },
+            "Beyond": {
+                "title": "Teriqma",
+                "bpm-min": 128,
+                "bpm-max": 128,
+                "level": "9+",
+                "const": 9.7,
+                "notes": 954,
+                "length": 145,
+                "chart": "én 200716"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "MAHOROBA",
+            "pack": "Memory Archive",
+            "composer": "Zekk",
+            "release": "2020-08-07",
+            "update_version": "3.0.6",
+            "side": "Light",
+            "length": 125,
+            "bpm_min": 195,
+            "bpm_max": 195
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 422,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 632,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 828,
+                "chart": "TaroNuke + Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "BADTEK",
+            "pack": "Memory Archive",
+            "composer": "EBIMAYO",
+            "release": "2020-08-21",
+            "update_version": "3.1.0",
+            "side": "Conflict",
+            "length": 118,
+            "bpm_min": 190,
+            "bpm_max": 190
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 532,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 595,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 916,
+                "chart": "BADTOAST ft. Kurorak"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Malicious Mischance",
+            "pack": "Memory Archive",
+            "composer": "s-don",
+            "release": "2020-09-04",
+            "update_version": "3.1.2",
+            "side": "Conflict",
+            "length": 140,
+            "bpm_min": 155,
+            "bpm_max": 155
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 510,
+                "chart": "×NITRO×"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 706,
+                "chart": "×NITRO×"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.2,
+                "notes": 1126,
+                "chart": "×NITRO×"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "BUCHiGiRE Berserker",
+            "pack": "Memory Archive",
+            "composer": "REDALiCE vs MASAKI",
+            "release": "2020-09-16",
+            "update_version": "3.2.0",
+            "side": "Conflict",
+            "length": 148,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 850,
+                "chart": "夜浪"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.6,
+                "notes": 1046,
+                "chart": "夜浪"
+            },
+            "Future": {
+                "level": "10+",
+                "const": 10.8,
+                "notes": 1412,
+                "chart": "東星 vs 夜浪《BERSERK》"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Galaxy Friends",
+            "pack": "Memory Archive",
+            "composer": "Kobaryo",
+            "release": "2020-10-07",
+            "update_version": "3.2.1",
+            "side": "Conflict",
+            "length": 129,
+            "bpm_min": 300,
+            "bpm_max": 300
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 474,
+                "chart": "Nitrome X"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 572,
+                "chart": "Nitrome X"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1013,
+                "chart": "Nitrome X"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Xeraphinite",
+            "pack": "Memory Archive",
+            "composer": "BlackY",
+            "release": "NaN-10-30",
+            "update_version": "3.2.2",
+            "side": "Light",
+            "length": 143,
+            "bpm_min": 146,
+            "bpm_max": 146
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 383,
+                "chart": "東星※空の宝石"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 643,
+                "chart": "東星※空の宝石"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1048,
+                "chart": "東星※空の宝石"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Xanatos",
+            "pack": "Memory Archive",
+            "composer": "Tatsh",
+            "release": "2020-11-19",
+            "update_version": "3.2.3",
+            "side": "Conflict",
+            "length": 157,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 735,
+                "chart": "XERiNG"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 938,
+                "chart": "eXschwasion"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.0,
+                "notes": 1232,
+                "chart": "XERiNG × eXschwasion × NitromeX"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "AttraqtiA",
+            "pack": "Memory Archive",
+            "composer": "かめりあ",
+            "release": "2021-01-21",
+            "update_version": "3.5.0",
+            "side": "Light",
+            "length": 162,
+            "bpm_min": 202,
+            "bpm_max": 202
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 732,
+                "chart": "Toaster affected by 'CHUNITHM'"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.3,
+                "notes": 1002,
+                "chart": "Toaster affected by 'CHUNITHM'"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.6,
+                "notes": 1433,
+                "chart": "Toaster affected by 'CHUNITHM'"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "GIMME DA BLOOD",
+            "pack": "Memory Archive",
+            "composer": "C-Show",
+            "release": "2021-03-09",
+            "update_version": "3.5.2",
+            "side": "Conflict",
+            "length": 133,
+            "bpm_min": 87,
+            "bpm_max": 110
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 582,
+                "chart": "夜浪"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 737,
+                "chart": "夜浪"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.5,
+                "notes": 1093,
+                "chart": "夜浪"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "ベースラインやってる？w",
+            "pack": "Memory Archive",
+            "composer": "かめりあ feat. ななひら",
+            "release": "2021-04-09",
+            "update_version": "3.5.4",
+            "side": "Light",
+            "length": 145,
+            "bpm_min": 128,
+            "bpm_max": 128
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 415,
+                "chart": "トースト食べる？笑"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 548,
+                "chart": "トースト食べる？笑"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 861,
+                "chart": "トースト食べる？笑"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "THE ULTIMACY",
+            "pack": "Memory Archive",
+            "composer": "aran vs Massive New Krew",
+            "release": "2021-06-30",
+            "update_version": "3.6.4",
+            "side": "Conflict",
+            "length": 149,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 749,
+                "chart": "東星 vs Toaster"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 919,
+                "chart": "東星 vs Toaster"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1304,
+                "chart": "東星 vs Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "烈華RESONANCE",
+            "pack": "Memory Archive",
+            "composer": "REDALiCE vs Kobaryo",
+            "release": "2021-06-30",
+            "update_version": "3.6.4",
+            "side": "Light",
+            "length": 142,
+            "bpm_min": 240,
+            "bpm_max": 240
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 860,
+                "chart": "夜浪 vs Nitro"
+            },
+            "Present": {
+                "level": "8+",
+                "const": 8.9,
+                "notes": 1051,
+                "chart": "夜浪 vs Nitro"
+            },
+            "Future": {
+                "level": "10+",
+                "const": 10.7,
+                "notes": 1212,
+                "chart": "夜浪 vs Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Sheriruth (Laur Remix)",
+            "pack": "Memory Archive",
+            "composer": "Laur",
+            "release": "2021-08-10",
+            "update_version": "3.8.0",
+            "side": "Conflict",
+            "length": 126,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 671,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 795,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.5,
+                "notes": 1134,
+                "chart": "東星※恣意"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "緋纏いの宵",
+            "pack": "Memory Archive",
+            "composer": "Freezer feat.妃苺",
+            "release": "2021-08-24",
+            "update_version": "3.8.2",
+            "side": "Conflict",
+            "length": 130,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 530,
+                "chart": "Nitroだー！"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 638,
+                "chart": "Nitroだー！"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 922,
+                "chart": "Nitroだー！"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "goldenslaughterer",
+            "pack": "Memory Archive",
+            "composer": "zts",
+            "release": "2021-09-29",
+            "update_version": "3.8.6",
+            "side": "Conflict",
+            "length": 184,
+            "bpm_min": 133,
+            "bpm_max": 133
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 864,
+                "chart": "Exschwasion"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 880,
+                "chart": "Exschwasion"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1326,
+                "chart": "Exschwasion"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "lastendconductor",
+            "pack": "Memory Archive",
+            "composer": "zts",
+            "release": "2021-09-29",
+            "update_version": "3.8.6",
+            "side": "Conflict",
+            "length": 185,
+            "bpm_min": 139,
+            "bpm_max": 139
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 726,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 901,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 1209,
+                "chart": "Nitro"
+            },
+            "Beyond": {
+                "title": "lastendconductor",
+                "bpm-min": 139,
+                "bpm-max": 139,
+                "level": "10",
+                "const": 10.2,
+                "notes": 1339,
+                "length": 185,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Redolent Shape",
+            "pack": "Memory Archive",
+            "composer": "Sanaas",
+            "release": "2021-10-21",
+            "update_version": "3.8.8",
+            "side": "Conflict",
+            "length": 131,
+            "bpm_min": 150,
+            "bpm_max": 150
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 570,
+                "chart": "絶滅"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 717,
+                "chart": "絶滅"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.2,
+                "notes": 1088,
+                "chart": "絶滅"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "彩る夏の恋花火",
+            "pack": "Memory Archive",
+            "composer": "karatoPαnchii feat.はるの",
+            "release": "NaN-11-11",
+            "update_version": "3.9.0",
+            "side": "Light",
+            "length": 150,
+            "bpm_min": 160,
+            "bpm_max": 160
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 478,
+                "chart": "夏のNitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 641,
+                "chart": "夏のNitro"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1088,
+                "chart": "夏のNitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "init()",
+            "pack": "Memory Archive",
+            "composer": "kamome sano",
+            "release": "2022-01-20",
+            "update_version": "3.11.2",
+            "side": "Conflict",
+            "length": 146,
+            "bpm_min": 180,
+            "bpm_max": 180
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 713,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 957,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1204,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "INTERNET OVERDOSE",
+            "pack": "Memory Archive",
+            "composer": "Aiobahn feat. KOTOKO",
+            "release": "2022-02-17",
+            "update_version": "3.12.0",
+            "side": "Light",
+            "length": 122,
+            "bpm_min": 163,
+            "bpm_max": 163
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 430,
+                "chart": "Nitro Ch."
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 578,
+                "chart": "Nitro Ch."
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.4,
+                "notes": 657,
+                "chart": "Nitro Ch."
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Macrocosmic Modulation",
+            "pack": "Memory Archive",
+            "composer": "JAKAZiD",
+            "release": "2022-02-17",
+            "update_version": "3.12.0",
+            "side": "Light",
+            "length": 150,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 608,
+                "chart": "Exschwas↕on"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 794,
+                "chart": "Exschwas↕on"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1117,
+                "chart": "Exschwas↕on"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Kissing Lucifer",
+            "pack": "Memory Archive",
+            "composer": "ETIA.",
+            "release": "2022-02-17",
+            "update_version": "3.12.0",
+            "side": "Conflict",
+            "length": 146,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 639,
+                "chart": "NITRO"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 770,
+                "chart": "NITRO"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.4,
+                "notes": 1183,
+                "chart": "NITRO"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "NEO WINGS",
+            "pack": "Memory Archive",
+            "composer": "SOUND HOLIC feat. Nana Takahashi",
+            "release": "2022-02-17",
+            "update_version": "3.12.0",
+            "side": "Conflict",
+            "length": 150,
+            "bpm_min": 168,
+            "bpm_max": 168
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 591,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 840,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.2,
+                "notes": 1328,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Aurgelmir",
+            "pack": "Memory Archive",
+            "composer": "溝口ゆうま feat. 大瀬良あい",
+            "release": "2022-03-23",
+            "update_version": "3.12.4",
+            "side": "Conflict",
+            "length": 135,
+            "bpm_min": 122,
+            "bpm_max": 230
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 540,
+                "chart": "夜浪"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.5,
+                "notes": 765,
+                "chart": "夜浪"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.5,
+                "notes": 1100,
+                "chart": "夜浪"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Head BONK ache",
+            "pack": "Memory Archive",
+            "composer": "saaa ft. MC iwata Bros.",
+            "release": "2022-03-23",
+            "update_version": "3.12.4",
+            "side": "Conflict",
+            "length": 146,
+            "bpm_min": 132,
+            "bpm_max": 165
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 570,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 725,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 1061,
+                "chart": "Nitro"
+            }
+        }
     }
 ]
