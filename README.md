@@ -10,7 +10,9 @@ Memory Archive [114/114]
 
 "Extend Archive 2: Chronicles" Pack [20/20]
 
-"Extend Archive 1: Visions" Pack [0/20]
+"Extend Archive 1: Visions" Pack [20/20]
+
+"Lucent Historia" Pack [0/7]
 # jacket
 開発途中
 # 間違えている場所を見つけた場合
