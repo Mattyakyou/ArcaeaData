@@ -6163,5 +6163,602 @@
                 "chart": "moonquay c.FAIL"
             }
         }
-    }
+    },
+    {
+        "meta": {
+            "title": "HELLOHELL",
+            "pack": "World Extend 3: Illusions",
+            "composer": "暁Records",
+            "release": "2024-03-25",
+            "update_version": "5.5.0",
+            "side": "Conflict",
+            "length": 140,
+            "bpm_min": 155,
+            "bpm_max": 155
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 466,
+                "chart": "én"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 445,
+                "chart": "én"
+            },
+            "Future": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 673,
+                "chart": "én"
+            },
+            "Eternal": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 770,
+                "chart": "eién"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "〇、",
+            "pack": "World Extend 3: Illusions",
+            "composer": "Kolaa & 熊子",
+            "release": "2024-03-25",
+            "update_version": "5.5.0",
+            "side": "Light",
+            "length": 137,
+            "bpm_min": 145,
+            "bpm_max": 145
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 368,
+                "chart": "CERiNG、"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 519,
+                "chart": "CERiNG、"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 708,
+                "chart": "CERiNG、"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Awaken In Ruins",
+            "pack": "World Extend 3: Illusions",
+            "composer": "Supa7onyz",
+            "release": "2024-03-25",
+            "update_version": "5.5.0",
+            "side": "Conflict",
+            "length": 136,
+            "bpm_min": 125,
+            "bpm_max": 125
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 412,
+                "chart": "antymis"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 570,
+                "chart": "antymis"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 754,
+                "chart": "antymis"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "MORNINGLOOM",
+            "pack": "World Extend 3: Illusions",
+            "composer": "saaa",
+            "release": "2024-03-25",
+            "update_version": "5.5.0",
+            "side": "Light",
+            "length": 140,
+            "bpm_min": 102,
+            "bpm_max": 102
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 710,
+                "chart": "Exschwasion・8:00"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 829,
+                "chart": "Exschwasion・8:21"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.8,
+                "notes": 940,
+                "chart": "Exschwasion・8:45"
+            },
+            "Eternal": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1035,
+                "chart": "Exschwasion・8:46"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Lethal Voltage",
+            "pack": "World Extend 3: Illusions",
+            "composer": "siqlo",
+            "release": "2024-03-25",
+            "update_version": "5.5.0",
+            "side": "Conflict",
+            "length": 161,
+            "bpm_min": 190,
+            "bpm_max": 190
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 724,
+                "chart": "moonquay [EMP]"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 922,
+                "chart": "moonquay [FLASH]"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.4,
+                "notes": 1497,
+                "chart": "moonquay [SHOCK]"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Leave All Behind",
+            "pack": "World Extend 3: Illusions",
+            "composer": "rider",
+            "release": "2024-04-26",
+            "update_version": "5.6.0",
+            "side": "Conflict",
+            "length": 127,
+            "bpm_min": 150,
+            "bpm_max": 150
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.0,
+                "notes": 380,
+                "chart": "Luxance"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 488,
+                "chart": "Luxance"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.2,
+                "notes": 828,
+                "chart": "Luxance"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Old School Salvage",
+            "pack": "World Extend 3: Illusions",
+            "composer": "DJ SHARPNEL",
+            "release": "2024-05-30",
+            "update_version": "5.7.0",
+            "side": "Conflict",
+            "length": 166,
+            "bpm_min": 205,
+            "bpm_max": 205
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 705,
+                "chart": "antymis"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 950,
+                "chart": "antymis"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1316,
+                "chart": "antymis + Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "ディストーション・ニンゲン",
+            "pack": "World Extend 3: Illusions",
+            "composer": "DJ Myosuke & KAJI",
+            "release": "2024-07-30",
+            "update_version": "5.9.0",
+            "side": "Conflict",
+            "length": 149,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 544,
+                "chart": "ディストーション・ルクアンス"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 841,
+                "chart": "ディストーション・ルクアンス"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1317,
+                "chart": "ディストーション・ルクアンス"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "epitaxy",
+            "pack": "World Extend 3: Illusions",
+            "composer": "Camellia",
+            "release": "2024-08-29",
+            "update_version": "5.10.0",
+            "side": "Light",
+            "length": 169,
+            "bpm_min": 183,
+            "bpm_max": 183
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 826,
+                "chart": "Dec18"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 939,
+                "chart": "Dec18"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.6,
+                "notes": 1177,
+                "chart": "Dec18"
+            },
+            "Eternal": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 1410,
+                "chart": "Dec18"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Hailstone",
+            "pack": "World Extend 3: Illusions",
+            "composer": "Kazki Misora",
+            "release": "2024-09-26",
+            "update_version": "5.10.4",
+            "side": "Light",
+            "length": 129,
+            "bpm_min": 180,
+            "bpm_max": 180
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 534,
+                "chart": "raycast"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 651,
+                "chart": "raycast"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1002,
+                "chart": "raycast"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "フレテミタイ",
+            "pack": "World Extend 3: Illusions",
+            "composer": "みきとP",
+            "release": "2024-09-26",
+            "update_version": "5.10.4",
+            "side": "Light",
+            "length": 121,
+            "bpm_min": 155,
+            "bpm_max": 155
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 447,
+                "chart": "nora::neko"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 523,
+                "chart": "nora::neko"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.4,
+                "notes": 763,
+                "chart": "nora::neko"
+            },
+            "Eternal": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 841,
+                "chart": "nora::neko"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "プレヤ",
+            "pack": "World Extend 3: Illusions",
+            "composer": "qfeileadh&レゾナンスもえこ",
+            "release": "2024-10-24",
+            "update_version": "5.10.6",
+            "side": "Light",
+            "length": 151,
+            "bpm_min": 132,
+            "bpm_max": 132
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 419,
+                "chart": "nora::neko"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 479,
+                "chart": "nora::neko"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.2,
+                "notes": 591,
+                "chart": "nora::neko"
+            },
+            "Eternal": {
+                "level": "9",
+                "const": 9.1,
+                "notes": 714,
+                "chart": "nora::neko"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "astral.exe",
+            "pack": "World Extend 3: Illusions",
+            "composer": "Synzak & Laxeno57",
+            "release": "2024-11-21",
+            "update_version": "6.0.0",
+            "side": "Light",
+            "length": 155,
+            "bpm_min": 174,
+            "bpm_max": 174
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 654,
+                "chart": "antymis.exe"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 734,
+                "chart": "antymis.exe"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 1059,
+                "chart": "antymis.exe"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Black Mirror on the Wall",
+            "pack": "World Extend 3: Illusions",
+            "composer": "暁Records",
+            "release": "2025-03-27",
+            "update_version": "6.3.2",
+            "side": "Conflict",
+            "length": 152,
+            "bpm_min": 130,
+            "bpm_max": 130
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 471,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 613,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.6,
+                "notes": 735,
+                "chart": "Nitro"
+            },
+            "Eternal": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 894,
+                "chart": "KLMNOP"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "TRPNO",
+            "pack": "World Extend 3: Illusions",
+            "composer": "Nauts",
+            "release": "2025-03-27",
+            "update_version": "6.3.2",
+            "side": "Light",
+            "length": 125,
+            "bpm_min": 150,
+            "bpm_max": 150
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 451,
+                "chart": "raycast"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 562,
+                "chart": "raycast"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.0,
+                "notes": 897,
+                "chart": "raycast"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "τ (tau)",
+            "pack": "World Extend 3: Illusions",
+            "composer": "Wooden",
+            "release": "2025-04-24",
+            "update_version": "6.4.0",
+            "side": "Light",
+            "length": 143,
+            "bpm_min": 155,
+            "bpm_max": 155
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 553,
+                "chart": "ə (exschwasion)"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 798,
+                "chart": "ə (exschwasion)"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1057,
+                "chart": "ə (exschwasion)"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Won't Back Down",
+            "pack": "World Extend 3: Illusions",
+            "composer": "Pure 100% / KASA",
+            "release": "2025-05-22",
+            "update_version": "6.5.0",
+            "side": "Conflict",
+            "length": 133,
+            "bpm_min": 165,
+            "bpm_max": 165
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 437,
+                "chart": "én"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 551,
+                "chart": "én"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1015,
+                "chart": "én"
+            }
+        }
+    },
 ]
