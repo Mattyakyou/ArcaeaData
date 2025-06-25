@@ -2,11 +2,13 @@
 # arcaea_data.json
 arcaea_data.jsonにジャケットを担当したイラストレーターを除くあらかたのデータが入っています。(譜面定数、レベル、担当コンポーサー、入ってきたバージョン、etc...)
 
-"Arcaea" Pack 終了
+"Arcaea" Pack [61/61]
 
-Memory Archive 終了
+Memory Archive [114/114]
 
-"World Extend 3: Illusions" Pack 開始
+"World Extend 3: Illusions" Pack [17/20]
+
+"Extend Archive 2: Chronicles" Pack [0/20]
 # jacket
 開発途中
 # 間違えている場所を見つけた場合
