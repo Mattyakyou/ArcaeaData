@@ -7420,5 +7420,685 @@
                 "chart": "ə₀"
             }
         }
+    },
+    {
+        "meta": {
+            "title": "Vivid Theory",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "ak+q",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Light",
+            "length": 148,
+            "bpm_min": 178,
+            "bpm_max": 178
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.0,
+                "notes": 447,
+                "chart": "TaroNuke"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 658,
+                "chart": "TaroNuke"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.8,
+                "notes": 885,
+                "chart": "TaroNuke"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "1F√",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "WHITEFISTS",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Light",
+            "length": 137,
+            "bpm_min": 130,
+            "bpm_max": 130
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 411,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 539,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.2,
+                "notes": 758,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Gekka (Short Version)",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "Nhato",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Light",
+            "length": 162,
+            "bpm_min": 132,
+            "bpm_max": 132
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 559,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 628,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.6,
+                "notes": 817,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Give Me a Nightmare",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "アリスシャッハと魔法の楽団",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Conflict",
+            "length": 152,
+            "bpm_min": 95,
+            "bpm_max": 190
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 676,
+                "chart": "CERiNG"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 817,
+                "chart": "CERiNG"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.9,
+                "notes": 948,
+                "chart": "CERiNG"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Black Lotus",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "wa.",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Conflict",
+            "length": 117,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 653,
+                "chart": "Exschwasion"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 687,
+                "chart": "Exschwasion"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 965,
+                "chart": "Exschwasion"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Faint Light (Arcaea Edit)",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "Taishi",
+            "release": "2020-07-08",
+            "update_version": "3.0.3",
+            "side": "Light",
+            "length": 157,
+            "bpm_min": 133,
+            "bpm_max": 133
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 587,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 711,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.1,
+                "notes": 809,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "CROSS†OVER",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "HyuN feat. LyuU",
+            "release": "2020-10-07",
+            "update_version": "3.2.1",
+            "side": "Conflict",
+            "length": 151,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 653,
+                "chart": "Exschwasion"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 810,
+                "chart": "Exschwasion"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 1094,
+                "chart": "Exschwasion"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Lapis",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "SHIKI",
+            "release": "2020-10-30",
+            "update_version": "3.2.2",
+            "side": "Light",
+            "length": 140,
+            "bpm_min": 146,
+            "bpm_max": 146
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.0,
+                "notes": 391,
+                "chart": "CERiNG"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 520,
+                "chart": "CERiNG"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 920,
+                "chart": "CERiNG"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Purple Verse",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "Hommarju",
+            "release": "2020-12-03",
+            "update_version": "3.3.0",
+            "side": "Conflict",
+            "length": 145,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 558,
+                "chart": "Exschwasion"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 664,
+                "chart": "Exschwasion"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 1023,
+                "chart": "Exschwasion"
+            },
+            "Beyond": {
+                "title": "Purple Verse",
+                "bpm-min": 170,
+                "bpm-max": 170,
+                "level": "10",
+                "const": 10.6,
+                "notes": 1202,
+                "length": 145,
+                "chart": "/ERROR/ 絶滅"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Glow",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "SPACELECTRO",
+            "release": "2021-01-21",
+            "update_version": "3.5.0",
+            "side": "Conflict",
+            "length": 137,
+            "bpm_min": 165,
+            "bpm_max": 165
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 504,
+                "chart": "Exschwasion"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 666,
+                "chart": "Exschwasion"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 916,
+                "chart": "Exschwasion"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "enchanted love",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "linear ring",
+            "release": "2021-02-11",
+            "update_version": "3.5.1",
+            "side": "Light",
+            "length": 130,
+            "bpm_min": 95,
+            "bpm_max": 95
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.0,
+                "notes": 436,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 617,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.6,
+                "notes": 759,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "竹",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "立秋 feat.ちょこ",
+            "release": "2021-02-11",
+            "update_version": "3.5.1",
+            "side": "Light",
+            "length": 142,
+            "bpm_min": NaN,
+            "bpm_max": 315
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 499,
+                "chart": "竹の子"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 631,
+                "chart": "竹の子"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.0,
+                "notes": 1050,
+                "chart": "竹の子"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Life is PIANO",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "Junk",
+            "release": "2021-04-09",
+            "update_version": "3.5.4",
+            "side": "Light",
+            "length": 129,
+            "bpm_min": 133,
+            "bpm_max": 133
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 398,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 437,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.1,
+                "notes": 674,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Vandalism",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "Ashrount",
+            "release": "2021-05-11",
+            "update_version": "3.6.0",
+            "side": "Conflict",
+            "length": 149,
+            "bpm_min": 194,
+            "bpm_max": 194
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 668,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 685,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1087,
+                "chart": "Kurorak"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Turbocharger",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "A/I",
+            "release": "2021-06-10",
+            "update_version": "3.6.2",
+            "side": "Light",
+            "length": 150,
+            "bpm_min": 128,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 419,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 659,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.0,
+                "notes": 979,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "狂言綺語",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "影虎。& ikaruga_nex",
+            "release": "2021-07-21",
+            "update_version": "3.7.0",
+            "side": "Conflict",
+            "length": 149,
+            "bpm_min": 155,
+            "bpm_max": 155
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 576,
+                "chart": "Exschwasion"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 684,
+                "chart": "Exschwasion"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 969,
+                "chart": "Exschwasion"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "HIVEMIND",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "かたぎり",
+            "release": "2021-07-21",
+            "update_version": "3.7.0",
+            "side": "Conflict",
+            "length": 132,
+            "bpm_min": 252,
+            "bpm_max": 252
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 995,
+                "chart": "NITRO -unconnected-"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.6,
+                "notes": 988,
+                "chart": "NITRO -unconnected-"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.0,
+                "notes": 1252,
+                "chart": "NITRO -unconnected-"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "blue comet",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "ああああ",
+            "release": "2021-08-24",
+            "update_version": "3.8.2",
+            "side": "Light",
+            "length": 147,
+            "bpm_min": 100,
+            "bpm_max": 172
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 494,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 645,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.2,
+                "notes": 776,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "ENERGY SYNERGY MATRIX",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "Tanchiky",
+            "release": "2021-09-08",
+            "update_version": "3.8.4",
+            "side": "Conflict",
+            "length": 124,
+            "bpm_min": 160,
+            "bpm_max": 160
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 471,
+                "chart": "POWER NITRO"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 608,
+                "chart": "POWER NITRO"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 922,
+                "chart": "POWER NITRO"
+            },
+            "Beyond": {
+                "title": "ENERGY SYNERGY MATRIX",
+                "bpm-min": 160,
+                "bpm-max": 160,
+                "level": "10",
+                "const": 10.3,
+                "notes": 1011,
+                "length": 124,
+                "chart": "false"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "G e n g a o z o",
+            "pack": "Extend Archive 1: Visions",
+            "composer": "-45",
+            "release": "2021-09-29",
+            "update_version": "3.8.6",
+            "side": "Conflict",
+            "length": 165,
+            "bpm_min": 153,
+            "bpm_max": 153
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 580,
+                "chart": "_ P A S T"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.1,
+                "notes": 870,
+                "chart": "_ P R E S E N T"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.1,
+                "notes": 1353,
+                "chart": "_ F U T U R E"
+            }
+        }
     }
 ]
