@@ -6760,5 +6760,665 @@
                 "chart": "én"
             }
         }
+    },
+    {
+        "meta": {
+            "title": "月に叢雲華に風",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "幽閉サテライト",
+            "release": "2023-01-26",
+            "update_version": "4.2.0",
+            "side": "Conflict",
+            "length": 130,
+            "bpm_min": 160,
+            "bpm_max": 160
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 468,
+                "chart": "Lovely Visitor「Toaster」"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 610,
+                "chart": "Lovely Visitor「Toaster」"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.7,
+                "notes": 740,
+                "chart": "Lovely Visitor「Toaster」"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "Akira Complex feat. kiraku",
+            "release": "2023-01-26",
+            "update_version": "4.2.0",
+            "side": "Conflict",
+            "length": 154,
+            "bpm_min": 135,
+            "bpm_max": 135
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 575,
+                "chart": "ANTyMIS"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 760,
+                "chart": "ANTyMIS"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 1014,
+                "chart": "ANTyMIS"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "World Fragments III(radio edit)",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "xi",
+            "release": "2023-01-26",
+            "update_version": "4.2.0",
+            "side": "Light",
+            "length": 165,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 777,
+                "chart": "én"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 999,
+                "chart": "én"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1387,
+                "chart": "én supported by Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Astra walkthrough",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "paraoka",
+            "release": "2023-01-26",
+            "update_version": "4.2.0",
+            "side": "Conflict",
+            "length": 141,
+            "bpm_min": 225,
+            "bpm_max": 225
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 769,
+                "chart": "Aster"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 886,
+                "chart": "Aster"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1191,
+                "chart": "Aster join Toaster."
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Chronicle",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "Lime",
+            "release": "2023-01-26",
+            "update_version": "4.2.0",
+            "side": "Light",
+            "length": 145,
+            "bpm_min": 221,
+            "bpm_max": 221
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 928,
+                "chart": "夜浪 -Annals Historiae-"
+            },
+            "Present": {
+                "level": "8+",
+                "const": 8.9,
+                "notes": 1077,
+                "chart": "夜浪 -Annals Historiae-"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.5,
+                "notes": 1264,
+                "chart": "夜浪 -Annals Historiae-"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Let's Rock (Arcaea mix)",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "ikaruga_nex vs FALCHiON",
+            "release": "2023-03-02",
+            "update_version": "4.3.0",
+            "side": "Conflict",
+            "length": 147,
+            "bpm_min": 210,
+            "bpm_max": 210
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 541,
+                "chart": "Luxance"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 963,
+                "chart": "Luxance"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1177,
+                "chart": "Luxance"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Lost Emotion feat. nomico",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "Masayoshi Minoshima(ALR)",
+            "release": "2023-04-27",
+            "update_version": "4.4.4",
+            "side": "Light",
+            "length": 160,
+            "bpm_min": 172,
+            "bpm_max": 172
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 602,
+                "chart": "ポーカーフェイスのToaster"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 780,
+                "chart": "ポーカーフェイスのToaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 1123,
+                "chart": "ポーカーフェイスのToaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "GIMMICK",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "Ms.Sill",
+            "release": "2023-04-27",
+            "update_version": "4.4.4",
+            "side": "Conflict",
+            "length": 124,
+            "bpm_min": 143,
+            "bpm_max": 143
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 421,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 598,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 733,
+                "chart": "antymis + Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "無法地点",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "La prière",
+            "release": "2023-05-25",
+            "update_version": "4.4.6",
+            "side": "Conflict",
+            "length": 156,
+            "bpm_min": 148,
+            "bpm_max": 148
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 476,
+                "chart": "Luxance"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 630,
+                "chart": "Luxance"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.0,
+                "notes": 838,
+                "chart": "Luxance"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "ヒュブリスの頂に聳えるのは",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "qfeileadh feat.のあ",
+            "release": "2023-05-25",
+            "update_version": "4.4.6",
+            "side": "Conflict",
+            "length": 162,
+            "bpm_min": 158,
+            "bpm_max": 158
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 757,
+                "chart": "Exschwasion"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 973,
+                "chart": "Exschwasion"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1196,
+                "chart": "Exschwasion"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Ultimate taste",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "ぱらどっと",
+            "release": "2023-07-19",
+            "update_version": "4.6.0",
+            "side": "Light",
+            "length": 175,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 828,
+                "chart": "Arcaea Charting Team"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 1008,
+                "chart": "Arcaea Charting Team"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1405,
+                "chart": "Arcaea Charting Team【Full Flavor】"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "RGB",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "MEMODEMO X AQUASINE",
+            "release": "2023-08-18",
+            "update_version": "4.7.0",
+            "side": "Light",
+            "length": 160,
+            "bpm_min": 163,
+            "bpm_max": 163
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 652,
+                "chart": "NO₂"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 803,
+                "chart": "NO₂"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1131,
+                "chart": "NO₂"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "感情の摩天楼 ～Arr.Demetori",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "Demetori",
+            "release": "2023-09-14",
+            "update_version": "4.7.2",
+            "side": "Conflict",
+            "length": 153,
+            "bpm_min": 178,
+            "bpm_max": 178
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 736,
+                "chart": "Exschwasion"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 929,
+                "chart": "Exschwasion"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1294,
+                "chart": "N･Ex･T"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Dynitikós",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "Prower",
+            "release": "2023-09-27",
+            "update_version": "5.0.0",
+            "side": "Conflict",
+            "length": 154,
+            "bpm_min": 180,
+            "bpm_max": 180
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 683,
+                "chart": "Exschwasión"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 894,
+                "chart": "Exschwasión"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 986,
+                "chart": "Exschwasión"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "雨神楽",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "荒谷サトル",
+            "release": "2023-09-27",
+            "update_version": "5.0.0",
+            "side": "Light",
+            "length": 133,
+            "bpm_min": 105,
+            "bpm_max": 105
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 741,
+                "chart": "antymis"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 851,
+                "chart": "antymis"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1076,
+                "chart": "antymis"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "FANTA5Y",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "Moon Jelly & YUKIYANAGI",
+            "release": "2023-10-26",
+            "update_version": "5.1.0",
+            "side": "Light",
+            "length": 142,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 536,
+                "chart": "TOA5TIE"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 715,
+                "chart": "TOA5TIE"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 965,
+                "chart": "TOA5TIE"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "アローンアンドローン",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "Ponchi♪ feat. はぁち",
+            "release": "2023-11-30",
+            "update_version": "5.2.0",
+            "side": "Light",
+            "length": 139,
+            "bpm_min": 100,
+            "bpm_max": 100
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 642,
+                "chart": "én"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 742,
+                "chart": "én"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 970,
+                "chart": "én &amp; KLMNOP"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "felys final remix",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "onoken",
+            "release": "2023-12-21",
+            "update_version": "5.2.2",
+            "side": "Conflict",
+            "length": 170,
+            "bpm_min": 180,
+            "bpm_max": 180
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 624,
+                "chart": "Dec18"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 771,
+                "chart": "Dec18"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 1130,
+                "chart": "Dec18"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "On And On!! feat. Jenga",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "ETIA.",
+            "release": "2023-12-21",
+            "update_version": "5.2.2",
+            "side": "Light",
+            "length": 120,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 370,
+                "chart": "én and én!!"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 614,
+                "chart": "én and én!!"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 836,
+                "chart": "én and én!!"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Aleph-0",
+            "pack": "Extend Archive 2: Chronicles",
+            "composer": "LeaF",
+            "release": "2024-03-08",
+            "update_version": "5.4.0",
+            "side": "Conflict",
+            "length": 140,
+            "bpm_min": 35,
+            "bpm_max": 400
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 388,
+                "chart": "ə₀"
+            },
+            "Present": {
+                "level": "8+",
+                "const": 8.8,
+                "notes": 579,
+                "chart": "ə₀"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.5,
+                "notes": 919,
+                "chart": "ə₀"
+            }
+        }
     }
 ]
