@@ -1,4 +1,4 @@
-## まだ開発途中です
+## Under development
 # arcaea_data.json
 arcaea_data.jsonにジャケットを担当したイラストレーターを除くあらかたのデータが入っています。(譜面定数、レベル、担当コンポーサー、入ってきたバージョン、etc...)
 
