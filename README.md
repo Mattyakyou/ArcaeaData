@@ -8,14 +8,12 @@ Memory Archive [114/114]
 
 "World Extend 3: Illusions" Pack [17/20]
 
-"Extend Archive 2: Chronicles" Pack [0/20]
+"Extend Archive 2: Chronicles" Pack [20/20]
+
+"Extend Archive 1: Visions" Pack [0/20]
 # jacket
 開発途中
 # 間違えている場所を見つけた場合
 Discordのアカウントを知っていたらDMしてください。
 知らなかった場合、Twitter(現X)のアカウントです。
 https://x.com/mattyakyou_game
-
-なんでBeyondで曲変わるん？めっちゃ困ってる
-
-175/462(入力したやつ/曲数)
