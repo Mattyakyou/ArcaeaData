@@ -12,10 +12,26 @@ Memory Archive [114/114]
 
 "Extend Archive 1: Visions" Pack [20/20]
 
-"Lucent Historia" Pack [0/7]
+"Lucent Historia" Pack [7/7]
+
+"Absolute Nihil" Pack [5/5]
+
+"Lasting Eden" Pack [13/13]
+
+"Final Verdict" Pack [9/9]
+
+"Black Fate" Pack [7/7]
+
+"Adverse Prelude" Pack [5/5]
+
+"Luminous Sky" Pack [6/6]
+
+"Vicious Labyrinth" Pack [6/6]
+
+"Eternal Core" Pack [9/9]
 # jacket
 開発途中
 # 間違えている場所を見つけた場合
 Discordのアカウントを知っていたらDMしてください。
-知らなかった場合、Twitter(現X)のアカウントです。
+知らなかった場合、Twitterのアカウントです。
 https://x.com/mattyakyou_game
