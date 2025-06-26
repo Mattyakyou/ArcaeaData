@@ -8100,5 +8100,286 @@
                 "chart": "_ F U T U R E"
             }
         }
+    },
+    {
+        "meta": {
+            "title": "Swan Song",
+            "pack": "Lucent Historia",
+            "composer": "void (Mournfinale)",
+            "release": "2024-11-21",
+            "update_version": "6.0.0",
+            "side": "Lephon",
+            "length": 162,
+            "bpm_min": 148,
+            "bpm_max": 148
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 563,
+                "chart": "小終点"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 719,
+                "chart": "小終点"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1225,
+                "chart": "小終点"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Renegade",
+            "pack": "Lucent Historia",
+            "composer": "sky_delta",
+            "release": "2024-11-21",
+            "update_version": "6.0.0",
+            "side": "Lephon",
+            "length": 145,
+            "bpm_min": 186,
+            "bpm_max": 186
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 655,
+                "chart": "raycast, The Devout"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 751,
+                "chart": "raycast, The Devout"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 994,
+                "chart": "raycast, The Devout"
+            },
+            "Beyond": {
+                "title": "Renegade",
+                "bpm-min": 186,
+                "bpm-max": 186,
+                "level": "10",
+                "const": 10.2,
+                "notes": 1165,
+                "length": 145,
+                "chart": "raycast, The Irresolute"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Rays of Remnant",
+            "pack": "Lucent Historia",
+            "composer": "May × Felysrator",
+            "release": "2024-11-21",
+            "update_version": "6.0.0",
+            "side": "Lephon",
+            "length": 131,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 710,
+                "chart": "nora::nue"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 766,
+                "chart": "nora::nue"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 982,
+                "chart": "nora::nue"
+            },
+            "Beyond": {
+                "title": "Rays of Remnant",
+                "bpm-min": 200,
+                "bpm-max": 200,
+                "level": "10",
+                "const": 10.4,
+                "notes": 1118,
+                "length": 131,
+                "chart": "nora::nue"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Breach of Faith",
+            "pack": "Lucent Historia",
+            "composer": "Supire feat.eili",
+            "release": "2024-11-21",
+            "update_version": "6.0.0",
+            "side": "Lephon",
+            "length": 158,
+            "bpm_min": 172,
+            "bpm_max": 172
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 986,
+                "chart": "夜浪「perfidulo」"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.4,
+                "notes": 1171,
+                "chart": "夜浪「perfidulo」"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.3,
+                "notes": 1373,
+                "chart": "夜浪「perfidulo」"
+            },
+            "Beyond": {
+                "title": "Breach of Faith",
+                "bpm-min": 172,
+                "bpm-max": 172,
+                "level": "10+",
+                "const": 10.9,
+                "notes": 1448,
+                "length": 158,
+                "chart": "夜浪「perfidulo」"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Lament Rain",
+            "pack": "Lucent Historia",
+            "composer": "Ashrount vs. 打打だいず",
+            "release": "2024-11-21",
+            "update_version": "6.0.0",
+            "side": "Lephon",
+            "length": 165,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 1025,
+                "chart": "⇆ Fixation"
+            },
+            "Present": {
+                "level": "8+",
+                "const": 8.8,
+                "notes": 1186,
+                "chart": "⇆ Sublimation"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.6,
+                "notes": 1380,
+                "chart": "⇆ Separation"
+            },
+            "Beyond": {
+                "title": "Lament Rain",
+                "bpm-min": 200,
+                "bpm-max": 200,
+                "level": "11",
+                "const": 11.4,
+                "notes": 1637,
+                "length": 165,
+                "chart": "⇆ Projection"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Designant.",
+            "pack": "Lucent Historia",
+            "composer": "Designant",
+            "release": "2024-11-21",
+            "update_version": "6.0.0",
+            "side": "Lephon",
+            "length": 178,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 1055,
+                "chart": "1st Command ≒ Legacy"
+            },
+            "Present": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 1426,
+                "chart": "2nd Command ≒ Perfection"
+            },
+            "Future": {
+                "level": "10+",
+                "const": 10.9,
+                "notes": 1768,
+                "chart": "3rd Command ≒ Ascendance"
+            },
+            "Beyond": {
+                "title": "Designant.",
+                "bpm-min": 200,
+                "bpm-max": 200,
+                "level": "11+",
+                "const": 11.9,
+                "notes": 2184,
+                "length": 178,
+                "chart": "Final Command. Infinity"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Astral Quantization",
+            "pack": "Lucent Historia",
+            "composer": "Dj Grimoire",
+            "release": "2024-11-21",
+            "update_version": "6.0.0",
+            "side": "Lephon",
+            "length": 155,
+            "bpm_min": 185,
+            "bpm_max": 185
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 782,
+                "chart": "Ψ"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.1,
+                "notes": 943,
+                "chart": "Ψ"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.6,
+                "notes": 1388,
+                "chart": "Ψ"
+            }
+        }
     }
 ]
