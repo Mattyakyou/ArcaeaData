@@ -4066,7 +4066,7 @@
             "title": "彩る夏の恋花火",
             "pack": "Memory Archive",
             "composer": "karatoPαnchii feat.はるの",
-            "release": "NaN-11-11",
+            "release": "2021-11-11",
             "update_version": "3.9.0",
             "side": "Light",
             "length": 150,
@@ -7803,7 +7803,7 @@
             "update_version": "3.5.1",
             "side": "Light",
             "length": 142,
-            "bpm_min": NaN,
+            "bpm_min": 5,
             "bpm_max": 315
         },
         "data": {
@@ -8379,6 +8379,2118 @@
                 "const": 10.6,
                 "notes": 1388,
                 "chart": "Ψ"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "In Vain",
+            "pack": "Absolute Nihil",
+            "composer": "ryhki",
+            "release": "2024-07-30",
+            "update_version": "5.9.0",
+            "side": "Conflict",
+            "length": 153,
+            "bpm_min": 165,
+            "bpm_max": 165
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 562,
+                "chart": "CERiNG"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 677,
+                "chart": "CERiNG"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 1111,
+                "chart": "CERiNG"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Hypnotize",
+            "pack": "Absolute Nihil",
+            "composer": "rejection",
+            "release": "2024-07-30",
+            "update_version": "5.9.0",
+            "side": "Conflict",
+            "length": 153,
+            "bpm_min": 160,
+            "bpm_max": 160
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 518,
+                "chart": "én"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 761,
+                "chart": "én"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.9,
+                "notes": 993,
+                "chart": "én"
+            },
+            "Eternal": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1164,
+                "chart": "én × nitro「The Radical」"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Ashen 6oundary",
+            "pack": "Absolute Nihil",
+            "composer": "YUKIYANAGI",
+            "release": "2024-07-30",
+            "update_version": "5.9.0",
+            "side": "Conflict",
+            "length": 148,
+            "bpm_min": 172,
+            "bpm_max": 172
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 702,
+                "chart": "[NITRO]"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 813,
+                "chart": "[NITRO]"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1183,
+                "chart": "[NITRO]"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Judgement",
+            "pack": "Absolute Nihil",
+            "composer": "Tatsunoshin",
+            "release": "2024-07-30",
+            "update_version": "5.9.0",
+            "side": "Conflict",
+            "length": 172,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 844,
+                "chart": "絶滅≫collapse"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.6,
+                "notes": 1055,
+                "chart": "絶滅≫collapse"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.5,
+                "notes": 1432,
+                "chart": "絶滅≫collapse"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "ALTER EGO",
+            "pack": "Absolute Nihil",
+            "composer": "Yuta Imai vs Qlarabelle",
+            "release": "2024-07-30",
+            "update_version": "5.9.0",
+            "side": "Conflict",
+            "length": 160,
+            "bpm_min": 195,
+            "bpm_max": 195
+        },
+        "data": {
+            "Past": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 865,
+                "chart": "Article V 《Observation》"
+            },
+            "Present": {
+                "level": "9",
+                "const": 9.2,
+                "notes": 1213,
+                "chart": "Article VI 《Hypothesis》"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.5,
+                "notes": 1466,
+                "chart": "Article VII 《Analysis》"
+            },
+            "Eternal": {
+                "level": "11",
+                "const": 11.3,
+                "notes": 1644,
+                "chart": "Article 0x8 《Enmity》"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "WAIT FOR DAWN",
+            "pack": "Lasting Eden",
+            "composer": "U-ske feat. 棗いつき",
+            "release": "2023-08-18",
+            "update_version": "4.7.0",
+            "side": "Light",
+            "length": 131,
+            "bpm_min": 188,
+            "bpm_max": 188
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 596,
+                "chart": "én"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 636,
+                "chart": "én"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.7,
+                "notes": 861,
+                "chart": "én"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "レイヴンズ・プライド",
+            "pack": "Lasting Eden",
+            "composer": "みーに feat. はらもりよしな",
+            "release": "2023-08-18",
+            "update_version": "4.7.0",
+            "side": "Conflict",
+            "length": 151,
+            "bpm_min": 165,
+            "bpm_max": 165
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 697,
+                "chart": "Exschwasion"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 797,
+                "chart": "Exschwasion"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 1030,
+                "chart": "Exschwasion"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Rise of the World",
+            "pack": "Lasting Eden",
+            "composer": "cosMo@暴走P",
+            "release": "2023-08-18",
+            "update_version": "4.7.0",
+            "side": "Light",
+            "length": 140,
+            "bpm_min": 182,
+            "bpm_max": 212
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 722,
+                "chart": "N⇑TRO"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.1,
+                "notes": 843,
+                "chart": "N⇑TRO"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.5,
+                "notes": 1176,
+                "chart": "N⇑TRO"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "UNKNOWN LEVELS",
+            "pack": "Lasting Eden",
+            "composer": "Yuta Imai",
+            "release": "2023-08-18",
+            "update_version": "4.7.0",
+            "side": "Conflict",
+            "length": 155,
+            "bpm_min": 110,
+            "bpm_max": 165
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 591,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.1,
+                "notes": 771,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.6,
+                "notes": 1149,
+                "chart": "⇓ 東星 vs Toaster ⇓"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Abstruse Dilemma",
+            "pack": "Lasting Eden",
+            "composer": "Ashrount vs. 打打だいず",
+            "release": "2023-08-18",
+            "update_version": "4.7.0",
+            "side": "Light",
+            "length": 161,
+            "bpm_min": 216,
+            "bpm_max": 216
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 983,
+                "chart": "Remnant ⇐ Guilt"
+            },
+            "Present": {
+                "level": "8+",
+                "const": 8.9,
+                "notes": 1127,
+                "chart": "Remnant ⇒ Doubt"
+            },
+            "Future": {
+                "level": "11",
+                "const": 11.3,
+                "notes": 1467,
+                "chart": "Remnant ⇑⇓ Volition"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Primeval Texture",
+            "pack": "Lasting Eden",
+            "composer": "くるぶっこちゃん",
+            "release": "2023-09-27",
+            "update_version": "5.0.0",
+            "side": "Light",
+            "length": 133,
+            "bpm_min": 120,
+            "bpm_max": 120
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 387,
+                "chart": "CERiNG"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 525,
+                "chart": "CERiNG"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.0,
+                "notes": 810,
+                "chart": "CERiNG"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Technicolour",
+            "pack": "Lasting Eden",
+            "composer": "Maozon",
+            "release": "2023-09-27",
+            "update_version": "5.0.0",
+            "side": "Light",
+            "length": 151,
+            "bpm_min": 175,
+            "bpm_max": 175
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 644,
+                "chart": "KLMNOP"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 821,
+                "chart": "KLMNOP"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1140,
+                "chart": "KLMNOP"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Logos",
+            "pack": "Lasting Eden",
+            "composer": "polysha feat. 高城みよ",
+            "release": "2023-09-27",
+            "update_version": "5.0.0",
+            "side": "Conflict",
+            "length": 137,
+            "bpm_min": 189,
+            "bpm_max": 189
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 697,
+                "chart": "絶滅"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 798,
+                "chart": "絶滅"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.2,
+                "notes": 1040,
+                "chart": "絶滅"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Ego Eimi",
+            "pack": "Lasting Eden",
+            "composer": "BlackY feat. Risa Yuzuki",
+            "release": "2023-09-27",
+            "update_version": "5.0.0",
+            "side": "Conflict",
+            "length": 155,
+            "bpm_min": 178,
+            "bpm_max": 178
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 801,
+                "chart": "東星"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.6,
+                "notes": 937,
+                "chart": "東星"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.5,
+                "notes": 1223,
+                "chart": "東星"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Arghena",
+            "pack": "Lasting Eden",
+            "composer": "Feryquitous vs Laur",
+            "release": "2023-09-27",
+            "update_version": "5.0.0",
+            "side": "Conflict",
+            "length": 153,
+            "bpm_min": 185,
+            "bpm_max": 185
+        },
+        "data": {
+            "Past": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 883,
+                "chart": "第一識 \"Reality\""
+            },
+            "Present": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 1082,
+                "chart": "第二識 \"Causality\""
+            },
+            "Future": {
+                "level": "11",
+                "const": 11.3,
+                "notes": 1444,
+                "chart": "第三識 \"Pluriversality\""
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Transient Space",
+            "pack": "Lasting Eden",
+            "composer": "sleepless, Gardens, aspect",
+            "release": "2023-10-26",
+            "update_version": "5.1.0",
+            "side": "Conflict",
+            "length": 158,
+            "bpm_min": 115,
+            "bpm_max": 132
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 419,
+                "chart": "CERiNG -liminal-"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 607,
+                "chart": "CERiNG -liminal-"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 805,
+                "chart": "CERiNG -liminal-"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Nameless Passion",
+            "pack": "Lasting Eden",
+            "composer": "天束 feat.Sennzai",
+            "release": "2023-10-26",
+            "update_version": "5.1.0",
+            "side": "Conflict",
+            "length": 157,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 681,
+                "chart": "Luxance"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 890,
+                "chart": "Luxance"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1223,
+                "chart": "Luxance"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "TeraVolt",
+            "pack": "Lasting Eden",
+            "composer": "Katali",
+            "release": "2023-10-26",
+            "update_version": "5.1.0",
+            "side": "Conflict",
+            "length": 142,
+            "bpm_min": 154,
+            "bpm_max": 154
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 675,
+                "chart": "夜浪"
+            },
+            "Present": {
+                "level": "8+",
+                "const": 8.9,
+                "notes": 804,
+                "chart": "夜浪"
+            },
+            "Future": {
+                "level": "10+",
+                "const": 10.8,
+                "notes": 1008,
+                "chart": "超東星 × 雷夜浪"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Defection",
+            "pack": "Final Verdict",
+            "composer": "TeddyLoid feat. DELTA",
+            "release": "2022-07-07",
+            "update_version": "4.0.0",
+            "side": "Light",
+            "length": 147,
+            "bpm_min": 160,
+            "bpm_max": 160
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 588,
+                "chart": "Monolith Incarnate"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 800,
+                "chart": "Monolith Incarnate"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1141,
+                "chart": "Monolith Incarnate"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Infinite Strife,",
+            "pack": "Final Verdict",
+            "composer": "BlackYooh vs. siromaru",
+            "release": "2022-07-07",
+            "update_version": "4.0.0",
+            "side": "Conflict",
+            "length": 169,
+            "bpm_min": 198,
+            "bpm_max": 198
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 888,
+                "chart": "Inner Labyrinth"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 1081,
+                "chart": "Inner Labyrinth"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1511,
+                "chart": "Inner Labyrinth"
+            },
+            "Beyond": {
+                "title": "Infinite Strife,",
+                "bpm-min": 198,
+                "bpm-max": 198,
+                "level": "10+",
+                "const": 10.9,
+                "notes": 1633,
+                "length": 169,
+                "chart": "Inner Labyrinth"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "魔王",
+            "pack": "Final Verdict",
+            "composer": "sasakure.UK × TJ.hangneil",
+            "release": "2022-07-07",
+            "update_version": "4.0.0",
+            "side": "Light",
+            "length": 156,
+            "bpm_min": 190,
+            "bpm_max": 280
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 616,
+                "chart": "Imaginary Sky"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 850,
+                "chart": "Imaginary Sky"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.0,
+                "notes": 1225,
+                "chart": "Imaginary Sky"
+            },
+            "Beyond": {
+                "title": "魔王",
+                "bpm-min": 190,
+                "bpm-max": 280,
+                "level": "11",
+                "const": 11.1,
+                "notes": 1661,
+                "length": 156,
+                "chart": "Imaginary Sky"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Pentiment",
+            "pack": "Final Verdict",
+            "composer": "Nothing But Requiem with Museo",
+            "release": "2022-07-07",
+            "update_version": "4.0.0",
+            "side": "Conflict",
+            "length": 159,
+            "bpm_min": 200,
+            "bpm_max": 222
+        },
+        "data": {
+            "Past": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 911,
+                "chart": "Paradox Blight"
+            },
+            "Present": {
+                "level": "8+",
+                "const": 8.7,
+                "notes": 1055,
+                "chart": "Paradox Blight"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.4,
+                "notes": 1345,
+                "chart": "Paradox Blight"
+            },
+            "Beyond": {
+                "title": "Pentiment",
+                "bpm-min": 200,
+                "bpm-max": 222,
+                "level": "11",
+                "const": 11.5,
+                "notes": 1741,
+                "length": 159,
+                "chart": "Paradox Blight"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Arcana Eden",
+            "pack": "Final Verdict",
+            "composer": "Team Grimoire vs Sakuzyo vs Laur",
+            "release": "2022-07-07",
+            "update_version": "4.0.0",
+            "side": "Conflict",
+            "length": 180,
+            "bpm_min": 211,
+            "bpm_max": 211
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 1097,
+                "chart": "Eye of the Storm"
+            },
+            "Present": {
+                "level": "8+",
+                "const": 8.7,
+                "notes": 1310,
+                "chart": "Eye of the Storm"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.5,
+                "notes": 1792,
+                "chart": "Eye of the Storm"
+            },
+            "Beyond": {
+                "title": "Arcana Eden",
+                "bpm-min": 211,
+                "bpm-max": 211,
+                "level": "11",
+                "const": 11.6,
+                "notes": 2134,
+                "length": 180,
+                "chart": "Eye of the Storm"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Testify",
+            "pack": "Final Verdict",
+            "composer": "void (Mournfinale) feat. 星熊南巫",
+            "release": "2022-07-07",
+            "update_version": "4.0.0",
+            "side": "Colorless",
+            "length": 176,
+            "bpm_min": 178,
+            "bpm_max": 178
+        },
+        "data": {
+            "Past": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 1001,
+                "chart": "Eternal¦PAST"
+            },
+            "Present": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 1225,
+                "chart": "Adverse¦PRESENT"
+            },
+            "Future": {
+                "level": "10+",
+                "const": 10.9,
+                "notes": 1766,
+                "chart": "Black¦FUTURE"
+            },
+            "Beyond": {
+                "title": "Testify",
+                "bpm-min": 178,
+                "bpm-max": 178,
+                "level": "12",
+                "const": 12,
+                "notes": 2221,
+                "length": 176,
+                "chart": "Silent¦END"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Loveless Dress",
+            "pack": "Final Verdict",
+            "composer": "かねこちはる",
+            "release": "2022-07-13",
+            "update_version": "4.0.255",
+            "side": "Colorless",
+            "length": 161,
+            "bpm_min": 99,
+            "bpm_max": 99
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 537,
+                "chart": "Final Prayer"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 630,
+                "chart": "Final Prayer"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 850,
+                "chart": "Final Prayer"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Last",
+            "pack": "Final Verdict",
+            "composer": "onoken",
+            "release": "2022-07-13",
+            "update_version": "4.0.255",
+            "side": "Colorless",
+            "length": 145,
+            "bpm_min": 175,
+            "bpm_max": 175
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 680,
+                "chart": "Arcaea"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 781,
+                "chart": "Arcaea"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.0,
+                "notes": 831,
+                "chart": "Arcaea"
+            },
+            "Beyond": {
+                "title": "Last | Moment",
+                "bpm-min": 175,
+                "bpm-max": 175,
+                "level": "9",
+                "const": 9.6,
+                "notes": 888,
+                "length": 145,
+                "chart": "Arcaea"
+            },
+            "Beyond": {
+                "title": "Last | Eternity",
+                "bpm-min": 175,
+                "bpm-max": 175,
+                "level": "9",
+                "const": 9.7,
+                "notes": 790,
+                "length": 145,
+                "chart": "Arcaea"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Callima Karma",
+            "pack": "Final Verdict",
+            "composer": "t+pazolite vs Feryquitous",
+            "release": "2022-07-13",
+            "update_version": "4.0.255",
+            "side": "Colorless",
+            "length": 159,
+            "bpm_min": 95,
+            "bpm_max": 95
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 1024,
+                "chart": "Forlorn Dream"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 989,
+                "chart": "Forlorn Dream"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1222,
+                "chart": "Forlorn Dream"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Equilibrium",
+            "pack": "Black Fate",
+            "composer": "Maozon",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Light",
+            "length": 137,
+            "bpm_min": 180,
+            "bpm_max": 180
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 587,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 724,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.4,
+                "notes": 951,
+                "chart": "Kurorak"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Antagonism",
+            "pack": "Black Fate",
+            "composer": "Yooh vs. siromaru",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Conflict",
+            "length": 138,
+            "bpm_min": 160,
+            "bpm_max": 160
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 431,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 738,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1142,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Lost Desire",
+            "pack": "Black Fate",
+            "composer": "Powerless feat. Sennzai",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Conflict",
+            "length": 154,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 684,
+                "chart": "Darkest Dream"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 871,
+                "chart": "Darkest Dream"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 1154,
+                "chart": "Darkest Dream"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Dantalion",
+            "pack": "Black Fate",
+            "composer": "Team Grimoire",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Conflict",
+            "length": 151,
+            "bpm_min": 186,
+            "bpm_max": 186
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.0,
+                "notes": 731,
+                "chart": "夜浪"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.2,
+                "notes": 843,
+                "chart": "東星"
+            },
+            "Future": {
+                "level": "10+",
+                "const": 10.8,
+                "notes": 1476,
+                "chart": "夜浪 X 東星 \"The Lost\""
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "#1f1e33",
+            "pack": "Black Fate",
+            "composer": "かめりあ(EDP)",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Conflict",
+            "length": 162,
+            "bpm_min": 181,
+            "bpm_max": 181
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 765,
+                "chart": "夜浪"
+            },
+            "Present": {
+                "level": "9",
+                "const": 9.2,
+                "notes": 1144,
+                "chart": "夜浪"
+            },
+            "Future": {
+                "level": "11",
+                "const": 11.1,
+                "notes": 1576,
+                "chart": "夜浪 VS 東星 \"Convergence\""
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Tempestissimo",
+            "pack": "Black Fate",
+            "composer": "t+pazolite",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Conflict",
+            "length": 138,
+            "bpm_min": 231,
+            "bpm_max": 231
+        },
+        "data": {
+            "Past": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 919,
+                "chart": "Prelude - Ouverture"
+            },
+            "Present": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 1034,
+                "chart": "Convergence - Intermezzo"
+            },
+            "Future": {
+                "level": "10+",
+                "const": 10.7,
+                "notes": 1254,
+                "chart": "Onslaught - Crescendo"
+            },
+            "Beyond": {
+                "title": "Tempestissimo",
+                "bpm-min": 231,
+                "bpm-max": 231,
+                "level": "11",
+                "const": 11.7,
+                "notes": 1540,
+                "length": 138,
+                "chart": "Finale - The Tempest"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Arcahv",
+            "pack": "Black Fate",
+            "composer": "Feryquitous",
+            "release": "2020-05-27",
+            "update_version": "3.0.0",
+            "side": "Light",
+            "length": 165,
+            "bpm_min": 191,
+            "bpm_max": 191
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 818,
+                "chart": "∅"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 884,
+                "chart": "∅"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1065,
+                "chart": "∅"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Saint or Sinner",
+            "pack": "Adverse Prelude",
+            "composer": "crayvxn",
+            "release": "2024-09-26",
+            "update_version": "5.10.4",
+            "side": "Conflict",
+            "length": 147,
+            "bpm_min": 164,
+            "bpm_max": 164
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 447,
+                "chart": "小終点"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 563,
+                "chart": "小終点"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.8,
+                "notes": 906,
+                "chart": "小終点"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Vindication",
+            "pack": "Adverse Prelude",
+            "composer": "Laur",
+            "release": "2019-07-18",
+            "update_version": "2.2.0",
+            "side": "Light",
+            "length": 151,
+            "bpm_min": 174,
+            "bpm_max": 174
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 721,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 899,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.6,
+                "notes": 1075,
+                "chart": "Nitro vs Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Heavensdoor",
+            "pack": "Adverse Prelude",
+            "composer": "LeaF",
+            "release": "2019-07-18",
+            "update_version": "2.2.0",
+            "side": "Conflict",
+            "length": 134,
+            "bpm_min": 240,
+            "bpm_max": 240
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 766,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 869,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1101,
+                "chart": "Black Tea"
+            },
+            "Beyond": {
+                "title": "Heavensdoor",
+                "bpm-min": 240,
+                "bpm-max": 240,
+                "level": "10+",
+                "const": 10.8,
+                "notes": 1534,
+                "length": 134,
+                "chart": "東星※天の門"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Ringed Genesis",
+            "pack": "Adverse Prelude",
+            "composer": "Edelritter",
+            "release": "2019-07-18",
+            "update_version": "2.2.0",
+            "side": "Light",
+            "length": 134,
+            "bpm_min": 160,
+            "bpm_max": 160
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 672,
+                "chart": "夜浪 vs Nitro"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.4,
+                "notes": 860,
+                "chart": "夜浪 vs Nitro"
+            },
+            "Future": {
+                "level": "10+",
+                "const": 10.8,
+                "notes": 1146,
+                "chart": "夜浪 vs Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "BLRINK",
+            "pack": "Adverse Prelude",
+            "composer": "Sta",
+            "release": "2020-03-09",
+            "update_version": "2.5.3",
+            "side": "Conflict",
+            "length": 160,
+            "bpm_min": 115,
+            "bpm_max": 115
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 400,
+                "chart": "過去の縁"
+            },
+            "Present": {
+                "level": "7+",
+                "const": 7.8,
+                "notes": 683,
+                "chart": "現在の縁"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1015,
+                "chart": "未来の縁"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "九番目の迷路",
+            "pack": "Luminous Sky",
+            "composer": "アリスシャッハと魔法の楽団",
+            "release": "2018-07-16",
+            "update_version": "1.7.0",
+            "side": "Light",
+            "length": 145,
+            "bpm_min": 159,
+            "bpm_max": 159
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 494,
+                "chart": "小東星"
+            },
+            "Present": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 445,
+                "chart": "小東星"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.9,
+                "notes": 775,
+                "chart": "小東星"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "The Message",
+            "pack": "Luminous Sky",
+            "composer": "Jun Kuroda",
+            "release": "2018-07-16",
+            "update_version": "1.7.0",
+            "side": "Light",
+            "length": 141,
+            "bpm_min": 202,
+            "bpm_max": 202
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 536,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 630,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 992,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Sulfur",
+            "pack": "Luminous Sky",
+            "composer": "ぺのれり",
+            "release": "2018-07-16",
+            "update_version": "1.7.0",
+            "side": "Light",
+            "length": 142,
+            "bpm_min": 182,
+            "bpm_max": 182
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 458,
+                "chart": "Shirorak"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 608,
+                "chart": "Shirorak"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.7,
+                "notes": 1045,
+                "chart": "Shirorak"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Halcyon",
+            "pack": "Luminous Sky",
+            "composer": "xi",
+            "release": "2018-07-16",
+            "update_version": "1.7.0",
+            "side": "Light",
+            "length": 159,
+            "bpm_min": 191,
+            "bpm_max": 191
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 662,
+                "chart": "東星※太陽"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.2,
+                "notes": 943,
+                "chart": "東星※太陽"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.5,
+                "notes": 1227,
+                "chart": "東星※太陽"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Ether Strike",
+            "pack": "Luminous Sky",
+            "composer": "Akira Complex",
+            "release": "2018-07-16",
+            "update_version": "1.7.0",
+            "side": "Light",
+            "length": 140,
+            "bpm_min": 156,
+            "bpm_max": 156
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 659,
+                "chart": "Zero Sky"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.3,
+                "notes": 837,
+                "chart": "Zero Sky"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.3,
+                "notes": 1170,
+                "chart": "Zero Sky"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Fracture Ray",
+            "pack": "Luminous Sky",
+            "composer": "Sakuzyo",
+            "release": "2018-07-16",
+            "update_version": "1.7.0",
+            "side": "Light",
+            "length": 153,
+            "bpm_min": 200,
+            "bpm_max": 200
+        },
+        "data": {
+            "Past": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 983,
+                "chart": "Volatile Paradox"
+            },
+            "Present": {
+                "level": "9",
+                "const": 9.5,
+                "notes": 1343,
+                "chart": "Absolute Paradox"
+            },
+            "Future": {
+                "level": "11",
+                "const": 11.1,
+                "notes": 1279,
+                "chart": "Paradox Zero"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Iconoclast",
+            "pack": "Vicious Labyrinth",
+            "composer": "Yamajet",
+            "release": "2017-11-03",
+            "update_version": "1.5.0",
+            "side": "Conflict",
+            "length": 127,
+            "bpm_min": 140,
+            "bpm_max": 140
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 443,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 593,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.1,
+                "notes": 795,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "SOUNDWiTCH",
+            "pack": "Vicious Labyrinth",
+            "composer": "HATE",
+            "release": "2017-11-03",
+            "update_version": "1.5.0",
+            "side": "Conflict",
+            "length": 108,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 315,
+                "chart": "NiTRO"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 488,
+                "chart": "NiTRO"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.8,
+                "notes": 785,
+                "chart": "NiTRO"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "妖艶魔女 -trappola bewitching-",
+            "pack": "Vicious Labyrinth",
+            "composer": "gmtn.",
+            "release": "2017-11-03",
+            "update_version": "1.5.0",
+            "side": "Conflict",
+            "length": 120,
+            "bpm_min": 190,
+            "bpm_max": 190
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.0,
+                "notes": 415,
+                "chart": "Kurorak"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 541,
+                "chart": "Kurorak"
+            },
+            "Future": {
+                "level": "9+",
+                "const": 9.9,
+                "notes": 1044,
+                "chart": "K//urorak"
+            },
+            "Beyond": {
+                "title": "妖艶魔女 -trappola bewitching-",
+                "bpm-min": 190,
+                "bpm-max": 190,
+                "level": "10",
+                "const": 10.6,
+                "notes": 1086,
+                "length": 120,
+                "chart": "NITRO -mesmerize-"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "conflict",
+            "pack": "Vicious Labyrinth",
+            "composer": "siromaru + cranky",
+            "release": "2017-11-03",
+            "update_version": "1.5.0",
+            "side": "Conflict",
+            "length": 134,
+            "bpm_min": 160,
+            "bpm_max": 160
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 520,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 731,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.2,
+                "notes": 1056,
+                "chart": "toaster + nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Axium Crisis",
+            "pack": "Vicious Labyrinth",
+            "composer": "ak+q",
+            "release": "2017-11-03",
+            "update_version": "1.5.0",
+            "side": "Conflict",
+            "length": 151,
+            "bpm_min": 170,
+            "bpm_max": 170
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 685,
+                "chart": "The Monolith"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.5,
+                "notes": 1065,
+                "chart": "The Monolith"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.6,
+                "notes": 1094,
+                "chart": "The Monolith"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Grievous Lady",
+            "pack": "Vicious Labyrinth",
+            "composer": "Team Grimoire vs Laur",
+            "release": "2017-11-03",
+            "update_version": "1.5.0",
+            "side": "Conflict",
+            "length": 141,
+            "bpm_min": 210,
+            "bpm_max": 210
+        },
+        "data": {
+            "Past": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 956,
+                "chart": "迷路第一層"
+            },
+            "Present": {
+                "level": "9",
+                "const": 9.3,
+                "notes": 1194,
+                "chart": "迷路第二層"
+            },
+            "Future": {
+                "level": "11",
+                "const": 11.1,
+                "notes": 1450,
+                "chart": "迷路深層"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "cry of viyella",
+            "pack": "Eternal Core",
+            "composer": "Laur",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Conflict",
+            "length": 127,
+            "bpm_min": 75,
+            "bpm_max": 180
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 414,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 492,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.7,
+                "notes": 791,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "I've heard it said",
+            "pack": "Eternal Core",
+            "composer": "Combatplayer",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Light",
+            "length": 127,
+            "bpm_min": 165,
+            "bpm_max": 165
+        },
+        "data": {
+            "Past": {
+                "level": "3",
+                "const": 3.5,
+                "notes": 510,
+                "chart": "Toaster"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.0,
+                "notes": 664,
+                "chart": "Toaster"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.1,
+                "notes": 864,
+                "chart": "Toaster"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "memoryfactory.lzh",
+            "pack": "Eternal Core",
+            "composer": "Frums",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Light",
+            "length": 132,
+            "bpm_min": 100,
+            "bpm_max": 100
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 308,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 448,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.9,
+                "notes": 672,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Relentless",
+            "pack": "Eternal Core",
+            "composer": "Akira Complex",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Conflict",
+            "length": 139,
+            "bpm_min": 174,
+            "bpm_max": 174
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 607,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "6",
+                "const": 6.5,
+                "notes": 722,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.0,
+                "notes": 1015,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Lumia",
+            "pack": "Eternal Core",
+            "composer": "sky_delta",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Light",
+            "length": 122,
+            "bpm_min": 180,
+            "bpm_max": 180
+        },
+        "data": {
+            "Past": {
+                "level": "2",
+                "const": 2.5,
+                "notes": 469,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 438,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "8",
+                "const": 8.4,
+                "notes": 961,
+                "chart": "Toaster missing Nitro."
+            },
+            "Beyond": {
+                "title": "Lumia",
+                "bpm-min": 180,
+                "bpm-max": 180,
+                "level": "9",
+                "const": 9.5,
+                "notes": 814,
+                "length": 122,
+                "chart": "Toaster."
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Essence of Twilight",
+            "pack": "Eternal Core",
+            "composer": "ak+q",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Conflict",
+            "length": 152,
+            "bpm_min": 164,
+            "bpm_max": 164
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 556,
+                "chart": "Nitro"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 767,
+                "chart": "Nitro"
+            },
+            "Future": {
+                "level": "9",
+                "const": 9.1,
+                "notes": 1204,
+                "chart": "Nitro"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "PRAGMATISM",
+            "pack": "Eternal Core",
+            "composer": "Laur",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Light",
+            "length": 121,
+            "bpm_min": 174,
+            "bpm_max": 174
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.5,
+                "notes": 476,
+                "chart": "東星"
+            },
+            "Present": {
+                "level": "8",
+                "const": 8.6,
+                "notes": 855,
+                "chart": "東星"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.1,
+                "notes": 942,
+                "chart": "東星"
+            },
+            "Beyond": {
+                "title": "PRAGMATISM -RESURRECTION-",
+                "bpm-min": 174,
+                "bpm-max": 174,
+                "level": "11",
+                "const": 11.2,
+                "notes": 1502,
+                "length": 156,
+                "chart": "THE LAST DREAM"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "Sheriruth",
+            "pack": "Eternal Core",
+            "composer": "Team Grimoire",
+            "release": "2017-03-09",
+            "update_version": "1.0.5",
+            "side": "Conflict",
+            "length": 136,
+            "bpm_min": 185,
+            "bpm_max": 185
+        },
+        "data": {
+            "Past": {
+                "level": "5",
+                "const": 5.5,
+                "notes": 611,
+                "chart": "夜浪"
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.5,
+                "notes": 832,
+                "chart": "夜浪"
+            },
+            "Future": {
+                "level": "10",
+                "const": 10.0,
+                "notes": 1151,
+                "chart": "夜浪"
+            }
+        }
+    },
+    {
+        "meta": {
+            "title": "虚空の夢",
+            "pack": "Eternal Core",
+            "composer": "ak+q feat. Sennzai",
+            "release": "2019-03-09",
+            "update_version": "1.9.3",
+            "side": "Light",
+            "length": 171,
+            "bpm_min": 162,
+            "bpm_max": 162
+        },
+        "data": {
+            "Past": {
+                "level": "4",
+                "const": 4.0,
+                "notes": 712,
+                "chart": ""
+            },
+            "Present": {
+                "level": "7",
+                "const": 7.0,
+                "notes": 854,
+                "chart": ""
+            },
+            "Future": {
+                "level": "8+",
+                "const": 8.8,
+                "notes": 972,
+                "chart": ""
             }
         }
     }
