@@ -1,55 +1,82 @@
 ## Under development
 # arcaea_data.json
 arcaea_data.jsonにジャケットを担当したイラストレーターを除くあらかたのデータが入っています。(譜面定数、レベル、担当コンポーサー、入ってきたバージョン、etc...)
-
-達成率(ver.6.6.0) [356/470]
-
-"Arcaea" Pack [61/61]
-
-Memory Archive [114/114]
-
-"World Extend 3: Illusions" Pack [18/20]
-
-"Extend Archive 2: Chronicles" Pack [20/20]
-
-"Extend Archive 1: Visions" Pack [20/20]
-
-"Lucent Historia" Pack [7/7]
-
-"Absolute Nihil" Pack [5/5]
-
-"Lasting Eden" Pack [13/13]
-
-"Final Verdict" Pack [9/9]
-
-"Black Fate" Pack [7/7]
-
-"Adverse Prelude" Pack [5/5]
-
-"Luminous Sky" Pack [6/6]
-
-"Vicious Labyrinth" Pack [6/6]
-
-"Eternal Core" Pack [9/9]
-
-"Esoteric Order" Pack [12/12]
-
-"Divided Heart" Pack [5/5]
-
-"Ephemeral Page" Pack [8/8]
-
-"Sunset Radiance" Pack [6/6]
-
-"Absolute Reason" Pack [5/5]
-
-"Binary Enfold" Pack [8/8]
-
-"Ambivalent Vision" Pack [6/6]
-
-"Crimson Solace" Pack [6/6]
 # jacket
 開発途中
 # 間違えている場所を見つけた場合
 Discordのアカウントを知っていたらDMしてください。
 知らなかった場合、Twitterのアカウントです。
 https://x.com/mattyakyou_game
+
+# 曲埋めた数
+達成率(ver.6.6.0) [469/470] ←wikiだと470って書いてあるんですけど自分のArcaeaのプロフィールだと総楽曲数は469でした
+
+Arcaea Pack: [61/61]
+
+Memory Archive Pack: [115/115]
+
+World Extend 3: Illusions Pack: [18/20]
+
+Extend Archive 2: Chronicles Pack: [20/20]
+
+Extend Archive 1: Visions Pack: [20/20]
+
+Lucent Historia Pack: [7/7]
+
+Absolute Nihil Pack: [5/5]
+
+Lasting Eden Pack: [13/13]
+
+Final Verdict Pack: [9/9]
+
+Black Fate Pack: [7/7]
+
+Adverse Prelude Pack: [5/5]
+
+Luminous Sky Pack: [6/6]
+
+Vicious Labyrinth Pack: [6/6]
+
+Eternal Core Pack: [9/9]
+
+Esoteric Order Pack: [12/12]
+
+Divided Heart Pack: [5/5]
+
+Ephemeral Page Pack: [8/8]
+
+Sunset Radiance Pack: [6/6]
+
+Absolute Reason Pack: [5/5]
+
+Binary Enfold Pack: [8/8]
+
+Ambivalent Vision Pack: [6/6]
+
+Crimson Solace Pack: [6/6]
+
+DJMAX Collaboration Pack: [10/10]
+
+UNDERTALE Collaboration Pack: [5/5]
+
+Rotaeno Collaboration Pack: [5/5]
+
+Cytus II Collaboration Pack: [10/10]
+
+Muse Dash Collaboration Pack: [4/4]
+
+WACCA Collaboration Pack: [10/10]
+
+maimai Collaboration Pack: [12/12]
+
+O.N.G.E.K.I. Collaboration Pack: [13/13]
+
+CHUNITHM Collaboration Pack: [16/16]
+
+Groove Coaster Collaboration Pack: [9/9]
+
+Tone Sphere Collaboration Pack: [5/5]
+
+Lanota Collaboration Pack: [8/8]
+
+Dynamix Collaboration Pack: [5/5]
