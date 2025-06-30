@@ -9,9 +9,9 @@ Discordのアカウントを知っていたらDMしてください。
 https://x.com/mattyakyou_game
 
 # 曲埋めた数
-達成率(ver.6.6.0) [469/470] ←wikiだと470って書いてあるんですけど自分のArcaeaのプロフィールだと総楽曲数は469でした(多分削除楽曲のParticle Artsも入れてる)
+達成率(ver.6.6.0) [469/470]
 
-Arcaea Pack: [61/61]
+Arcaea Pack: [61/62]
 
 Memory Archive Pack: [115/115]
 
