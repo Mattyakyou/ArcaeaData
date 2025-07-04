@@ -7,9 +7,10 @@
             "release": "yyyy-mm-dd",
             "update_version": "0.0.0",
             "side":"",
-	        "length":,
+	    "length":,
             "bpm_min": ,
-            "bpm_max": 
+            "bpm_max": ,
+	        "jacket_number":
         },
         "data": {
             "Past": {
@@ -45,6 +46,7 @@
                 "notes": ,
                 "length": ,
                 "chart": ""
+		"jacket_number":
             }
         }
     }
