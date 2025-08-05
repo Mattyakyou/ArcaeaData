@@ -9,9 +9,9 @@ Discordのアカウントを知っていたらDMしてください。
 https://x.com/mattyakyou_game
 
 # 曲埋めた数
-達成率(ver.6.6.0) [470/470]
+達成率(ver.6.6.0) [476/476]
 
-Arcaea Pack: [62/62]
+Arcaea Pack: [63/63]
 
 Memory Archive Pack: [115/115]
 
@@ -38,6 +38,8 @@ Luminous Sky Pack: [6/6]
 Vicious Labyrinth Pack: [6/6]
 
 Eternal Core Pack: [9/9]
+
+Extant Anima Pack: [5/5]
 
 Esoteric Order Pack: [12/12]
 
