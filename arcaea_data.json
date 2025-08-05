@@ -16923,5 +16923,239 @@
         "chart": "τoastεr"
       }
     }
+  },
+  {
+    "meta": {
+      "title": "Dematerialized",
+      "pack": "Arcaea",
+      "composer": "In Love With A Ghost",
+      "release": "2025-07-24",
+      "update_version": "6.7.0",
+      "side": "Conflict",
+      "length": 124,
+      "bpm_min": 86,
+      "bpm_max": 86,
+      "jacket_number": "01d6"
+    },
+    "data": {
+      "Past": {
+        "level": "1",
+        "const": 1.5,
+        "notes": 469,
+        "chart": "karat"
+      },
+      "Present": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 659,
+        "chart": "karat"
+      },
+      "Future": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 722,
+        "chart": "karat"
+      },
+      "Eternal": {
+        "level": "8",
+        "const": 8.3,
+        "notes": 790,
+        "chart": "karat"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "See the Lights!",
+      "pack": "Extant Anima",
+      "composer": "polysha feat. しろさきあや",
+      "release": "2025-07-24",
+      "update_version": "6.7.0",
+      "side": "Light",
+      "length": 144,
+      "bpm_min": 136,
+      "bpm_max": 136,
+      "jacket_number": "01d7"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 445,
+        "chart": "raycast⭐︎"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.5,
+        "notes": 582,
+        "chart": "raycast⭐︎"
+      },
+      "Future": {
+        "level": "8",
+        "const": 8.6,
+        "notes": 692,
+        "chart": "raycast⭐︎"
+      },
+      "Eternal": {
+        "level": "9",
+        "const": 9.6,
+        "notes": 844,
+        "chart": "raycast⭐︎"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "朱月ノ姫",
+      "pack": "Extant Anima",
+      "composer": "technoplanet feat. 夕月ティア",
+      "release": "2025-07-24",
+      "update_version": "6.7.0",
+      "side": "Light",
+      "length": 146,
+      "bpm_min": 108,
+      "bpm_max": 184,
+      "jacket_number": "01d8"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 609,
+        "chart": "青月sidewaves"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 698,
+        "chart": "青月sidewaves"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.8,
+        "notes": 1037,
+        "chart": "青月sidewaves"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Dual Dependency",
+      "pack": "Extant Anima",
+      "composer": "seatrus",
+      "release": "2025-07-24",
+      "update_version": "6.7.0",
+      "side": "Light",
+      "length": 150,
+      "bpm_min": 155,
+      "bpm_max": 155,
+      "jacket_number": "01d9"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 607,
+        "chart": "絶//滅"
+      },
+      "Present": {
+        "level": "7+",
+        "const": 7.8,
+        "notes": 784,
+        "chart": "絶//滅"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.5,
+        "notes": 987,
+        "chart": "絶//滅"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.4,
+        "notes": 1162,
+        "chart": "絶//滅"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Lilly",
+      "pack": "Extant Anima",
+      "composer": "Juggernaut.",
+      "release": "2025-07-24",
+      "update_version": "6.7.0",
+      "side": "Light",
+      "length": 160,
+      "bpm_min": 235,
+      "bpm_max": 235,
+      "jacket_number": "01da"
+    },
+    "data": {
+      "Past": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 865,
+        "chart": "反水【天龍】"
+      },
+      "Present": {
+        "level": "8",
+        "const": 8.4,
+        "notes": 1052,
+        "chart": "反水【天龍】"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 1312,
+        "chart": "反水【天龍】"
+      },
+      "Eternal": {
+        "level": "10+",
+        "const": 10.8,
+        "notes": 1353,
+        "chart": "瑞獣【応龍】"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "多次元宇宙融合論",
+      "pack": "Extant Anima",
+      "composer": "TAKIO feat. つぐ",
+      "release": "2025-07-24",
+      "update_version": "6.7.0",
+      "side": "Conflict",
+      "length": 159,
+      "bpm_min": 180,
+      "bpm_max": 300,
+      "jacket_number": "01db"
+    },
+    "data": {
+      "Past": {
+        "level": "6",
+        "const": 6.5,
+        "notes": 1011,
+        "chart": "#0000遒ｧ"
+      },
+      "Present": {
+        "level": "8+",
+        "const": 8.8,
+        "notes": 1193,
+        "chart": "#0000遒ｧ"
+      },
+      "Future": {
+        "level": "10",
+        "const": 10.6,
+        "notes": 1422,
+        "chart": "#0000遒ｧ"
+      },
+      "Eternal": {
+        "level": "11",
+        "const": 11.3,
+        "notes": 1726,
+        "chart": "#0000遒ｧ"
+      }
+    }
   }
 ]
