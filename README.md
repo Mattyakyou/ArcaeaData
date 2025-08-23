@@ -9,13 +9,13 @@ Discordのアカウントを知っていたらDMしてください。
 https://x.com/mattyakyou_game
 
 # 曲埋めた数
-達成率(ver.6.6.0) [470/470]
+達成率(ver.6.8.0) [482/482]
 
-Arcaea Pack: [62/62]
+Arcaea Pack: [63/63]
 
 Memory Archive Pack: [115/115]
 
-World Extend 3: Illusions Pack: [18/20]
+World Extend 3: Illusions Pack: [19/20]
 
 Extend Archive 2: Chronicles Pack: [20/20]
 
@@ -38,6 +38,8 @@ Luminous Sky Pack: [6/6]
 Vicious Labyrinth Pack: [6/6]
 
 Eternal Core Pack: [9/9]
+
+Extant Anima Pack: [10/10]
 
 Esoteric Order Pack: [12/12]
 
