@@ -8437,7 +8437,7 @@
         "const": 10.3,
         "notes": 1011,
         "length": 124,
-        "chart": "false",
+        "chart": "白亜紀と古第三紀の間の大量絶滅",
         "jacket_number": "00e9"
       }
     }
@@ -13415,7 +13415,7 @@
         "level": "8+",
         "const": 8.9,
         "notes": 1086,
-        "chart": ""
+        "chart": "Arcaea Charting Teams【The Six Souls】"
       },
       "Beyond": {
         "title": "最高の悪夢",
@@ -13425,7 +13425,7 @@
         "const": 10.2,
         "notes": 1451,
         "length": 174,
-        "chart": "false",
+        "chart": "Arcaea Charting Teams【The Six Souls】",
         "jacket_number": "0172"
       }
     }
@@ -17155,6 +17155,240 @@
         "const": 11.3,
         "notes": 1726,
         "chart": "#0000遒ｧ"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "disintegration",
+      "pack": "World Extend 3: Illusions",
+      "composer": "ひゅ～ぶ",
+      "release": "2025-08-21",
+      "update_version": "6.8.0",
+      "side": "Light",
+      "length": 133,
+      "bpm_min": 135,
+      "bpm_max": 135,
+      "jacket_number": "01dc"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 387,
+        "chart": "raycast"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.5,
+        "notes": 466,
+        "chart": "raycast"
+      },
+      "Future": {
+        "level": "8",
+        "const": 8.3,
+        "notes": 605,
+        "chart": "raycast"
+      },
+      "Eternal": {
+        "level": "9+",
+        "const": 9.8,
+        "notes": 821,
+        "chart": "raycast"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Factorder",
+      "pack": "Extant Anima",
+      "composer": "瀬名 feat. 梨雛",
+      "release": "2025-08-21",
+      "update_version": "6.8.0",
+      "side": "Conflict",
+      "length": 145,
+      "bpm_min": 168,
+      "bpm_max": 168,
+      "jacket_number": "01dd"
+    },
+    "data": {
+      "Past": {
+        "level": "2",
+        "const": 2.5,
+        "notes": 510,
+        "chart": "Luxance-Lost Colors-"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.5,
+        "notes": 663,
+        "chart": "Luxance-Lost Colors-"
+      },
+      "Future": {
+        "level": "8",
+        "const": 8.6,
+        "notes": 849,
+        "chart": "Nitro"
+      },
+      "Eternal": {
+        "level": "9",
+        "const": 9.6,
+        "notes": 1015,
+        "chart": "Luxance-Lost Colors-"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "incomplete the one",
+      "pack": "Extant Anima",
+      "composer": "Halv feat.Kuroa*",
+      "release": "2025-08-21",
+      "update_version": "6.8.0",
+      "side": "Conflict",
+      "length": 144,
+      "bpm_min": 208,
+      "bpm_max": 208,
+      "jacket_number": "01de"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 691,
+        "chart": "<>ntymis"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 848,
+        "chart": "<>ntymis"
+      },
+      "Future": {
+        "level": "8+",
+        "const": 8.8,
+        "notes": 912,
+        "chart": "<>ntymis"
+      },
+      "Eternal": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 1008,
+        "chart": "<>ntymis"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "CHAOSBLAST",
+      "pack": "Extant Anima",
+      "composer": "QURELESS + 柚子花",
+      "release": "2025-08-21",
+      "update_version": "6.8.0",
+      "side": "Conflict",
+      "length": 143,
+      "bpm_min": 480,
+      "bpm_max": 480,
+      "jacket_number": "01df"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 786,
+        "chart": "NITRO「THE ANARQISM」"
+      },
+      "Present": {
+        "level": "7+",
+        "const": 7.8,
+        "notes": 1000,
+        "chart": "NITRO「THE ANARQISM」"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.6,
+        "notes": 1290,
+        "chart": "NITRO「THE ANARQISM」"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.5,
+        "notes": 1539,
+        "chart": "NITRO「THE ANARQISM」"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Welcome, Queen of Fiction.",
+      "pack": "Extant Anima",
+      "composer": "打打だいず",
+      "release": "2025-08-21",
+      "update_version": "6.8.0",
+      "side": "Conflict",
+      "length": 156,
+      "bpm_min": 110,
+      "bpm_max": 305,
+      "jacket_number": "01e0"
+    },
+    "data": {
+      "Past": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 610,
+        "chart": "ようこそ、瑞獣。"
+      },
+      "Present": {
+        "level": "8",
+        "const": 8.5,
+        "notes": 832,
+        "chart": "ようこそ、瑞獣。"
+      },
+      "Future": {
+        "level": "10",
+        "const": 10.1,
+        "notes": 1172,
+        "chart": "ようこそ、瑞獣。"
+      },
+      "Eternal": {
+        "level": "10+",
+        "const": 10.9,
+        "notes": 1442,
+        "chart": "虚偽の玉座【夜浪】"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "AlterGate",
+      "pack": "Extant Anima",
+      "composer": "MisoilePunch♪ ~タケノコ添え~",
+      "release": "2025-08-21",
+      "update_version": "6.8.0",
+      "side": "Conflict",
+      "length": 143,
+      "bpm_min": 199,
+      "bpm_max": 199,
+      "jacket_number": "01e1"
+    },
+    "data": {
+      "Past": {
+        "level": "5",
+        "const": 5.5,
+        "notes": 774,
+        "chart": "絶滅"
+      },
+      "Present": {
+        "level": "8+",
+        "const": 8.7,
+        "notes": 993,
+        "chart": "絶滅"
+      },
+      "Future": {
+        "level": "10+",
+        "const": 10.7,
+        "notes": 1324,
+        "chart": "絶滅"
       }
     }
   }

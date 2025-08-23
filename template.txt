@@ -10,7 +10,7 @@
 	    "length":,
             "bpm_min": ,
             "bpm_max": ,
-	        "jacket_number":
+	    "jacket_number":
         },
         "data": {
             "Past": {
