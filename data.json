@@ -17391,5 +17391,39 @@
         "chart": "絶滅"
       }
     }
+  },
+  {
+    "meta": {
+      "title": "Acheron",
+      "pack": "Memory Archive",
+      "composer": "KARUT",
+      "release": "2025-09-04",
+      "update_version": "6.8.2",
+      "side": "Conflict",
+      "length": 151,
+      "bpm_min": 145,
+      "bpm_max": 175,
+      "jacket_number": "01e2"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 538,
+        "chart": "karat"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 688,
+        "chart": "karat"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.7,
+        "notes": 1024,
+        "chart": "karat"
+      }
+    }
   }
 ]

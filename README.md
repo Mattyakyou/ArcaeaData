@@ -15,11 +15,11 @@ Discordのアカウントを知っていたらDMしてください。
 https://x.com/mattyakyou_game
 
 # 曲埋めた数
-達成率(ver.6.8.0) [482/482]
+達成率(ver.6.8.2) [483/483]
 
 Arcaea Pack: [63/63]
 
-Memory Archive Pack: [115/115]
+Memory Archive Pack: [116/116]
 
 World Extend 3: Illusions Pack: [19/20]
 
