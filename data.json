@@ -17425,5 +17425,273 @@
         "chart": "karat"
       }
     }
+  },
+  {
+    "meta": {
+      "title": "Viola Illyria",
+      "pack": "Liminal Eclipse",
+      "composer": "Kolaa",
+      "release": "2025-10-02",
+      "update_version": "6.9.0",
+      "side": "Light",
+      "length": 157,
+      "bpm_min": 162,
+      "bpm_max": 162,
+      "jacket_number": "01e3"
+    },
+    "data": {
+      "Past": {
+        "level": "2",
+        "const": 2.5,
+        "notes": 539,
+        "chart": "sidewaves"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.5,
+        "notes": 683,
+        "chart": "sidewaves"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.5,
+        "notes": 927,
+        "chart": "sidewaves + Exschwasion"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Vainspire",
+      "pack": "Liminal Eclipse",
+      "composer": "satella",
+      "release": "2025-10-02",
+      "update_version": "6.9.0",
+      "side": "Conflict",
+      "length": 155,
+      "bpm_min": 180,
+      "bpm_max": 180,
+      "jacket_number": "01e4"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 771,
+        "chart": "|karat|"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 787,
+        "chart": "|karat|"
+      },
+      "Future": {
+        "level": "8",
+        "const": 8.4,
+        "notes": 947,
+        "chart": "|karat|"
+      },
+      "Eternal": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 1133,
+        "chart": "|karat|"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "No Way Back",
+      "pack": "Liminal Eclipse",
+      "composer": "Nhato",
+      "release": "2025-10-02",
+      "update_version": "6.9.0",
+      "side": "Light",
+      "length": 133,
+      "bpm_min": 153,
+      "bpm_max": 153,
+      "jacket_number": "01e5"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 564,
+        "chart": "「Nitro」"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 639,
+        "chart": "「Nitro」"
+      },
+      "Future": {
+        "level": "8+",
+        "const": 8.9,
+        "notes": 837,
+        "chart": "「Nitro」"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.4,
+        "notes": 1008,
+        "chart": "「Nitro」"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "ANDORXOR",
+      "pack": "Liminal Eclipse",
+      "composer": "Sobrem",
+      "release": "2025-10-02",
+      "update_version": "6.9.0",
+      "side": "Conflict",
+      "length": 155,
+      "bpm_min": 148,
+      "bpm_max": 148,
+      "jacket_number": "01e6"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 559,
+        "chart": "反∧水"
+      },
+      "Present": {
+        "level": "7+",
+        "const": 7.8,
+        "notes": 758,
+        "chart": "反∧水"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 1055,
+        "chart": "反∧水"
+      },
+      "Eternal": {
+        "level": "10+",
+        "const": 10.8,
+        "notes": 1404,
+        "chart": "反∧水"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Undying Macula",
+      "pack": "Liminal Eclipse",
+      "composer": "Ashrount",
+      "release": "2025-10-02",
+      "update_version": "6.9.0",
+      "side": "Conflict",
+      "length": 163,
+      "bpm_min": 63,
+      "bpm_max": 63,
+      "jacket_number": "01e7"
+    },
+    "data": {
+      "Past": {
+        "level": "5",
+        "const": 5.5,
+        "notes": 883,
+        "chart": "PHOTONSPHERE"
+      },
+      "Present": {
+        "level": "8+",
+        "const": 8.7,
+        "notes": 904,
+        "chart": "ERGOSPHERE"
+      },
+      "Future": {
+        "level": "10",
+        "const": 10.1,
+        "notes": 1250,
+        "chart": "EVENTHORIZON"
+      },
+      "Eternal": {
+        "level": "11",
+        "const": 11,
+        "notes": 1461,
+        "chart": "M/V_BRIDGE"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "ROST PAGE GENE",
+      "pack": "World Extend 3: Illusions",
+      "composer": "MYUKKE.",
+      "release": "2025-10-02",
+      "update_version": "6.9.0",
+      "side": "Light",
+      "length": 0,
+      "bpm_min": 135,
+      "bpm_max": 135,
+      "jacket_number": "01e8"
+    },
+    "data": {
+      "Past": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 475,
+        "chart": "NEON:ROAD:OKAY"
+      },
+      "Present": {
+        "level": "8",
+        "const": 8.2,
+        "notes": 697,
+        "chart": "NEON:ROAD:OKAY"
+      },
+      "Future": {
+        "level": "10",
+        "const": 10.3,
+        "notes": 1028,
+        "chart": "NEON:ROAD:OKAY"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Eternity Break",
+      "pack": "Memory Archive",
+      "composer": "Puru",
+      "release": "2025-09-24",
+      "update_version": "6.8.4",
+      "side": "Conflict",
+      "length": 162,
+      "bpm_min": 170,
+      "bpm_max": 170,
+      "jacket_number": "01e9"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 634,
+        "chart": "M理論_halt"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 882,
+        "chart": "M理論_halt"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.6,
+        "notes": 1051,
+        "chart": "M理論_halt"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.4,
+        "notes": 1155,
+        "chart": "M理論_halt"
+      }
+    }
   }
 ]
