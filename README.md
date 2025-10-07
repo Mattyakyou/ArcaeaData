@@ -14,18 +14,24 @@ Discordのアカウントを知っていたらDMしてください。
 知らなかった場合、Twitterのアカウントです。
 https://x.com/mattyakyou_game
 
+# 未修整
+ROST PAGE GENEの曲の長さが不明
+
+
 # 曲埋めた数
-達成率(ver.6.8.2) [483/483]
+達成率(ver.6.9.0) [490/490]
 
 Arcaea Pack: [63/63]
 
-Memory Archive Pack: [116/116]
+Memory Archive Pack: [117/117]
 
-World Extend 3: Illusions Pack: [19/20]
+World Extend 3: Illusions Pack: [20/20]
 
 Extend Archive 2: Chronicles Pack: [20/20]
 
 Extend Archive 1: Visions Pack: [20/20]
+
+"Liminal Eclipse" Pack: [5/5]
 
 Lucent Historia Pack: [7/7]
 
