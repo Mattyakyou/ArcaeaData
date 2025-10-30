@@ -15,15 +15,17 @@ Discordのアカウントを知っていたらDMしてください。
 https://x.com/mattyakyou_game
 
 # 未修整
-ROST PAGE GENEの曲の長さが不明
+wikiに新曲の情報が埋まり次第入力します
 
 
 # 曲埋めた数
-達成率(ver.6.9.0) [490/490]
+達成率(ver.6.10.0) [490/497]
 
 Arcaea Pack: [63/63]
 
-Memory Archive Pack: [117/117]
+Memory Archive Pack: [117/119]
+
+World Extend 4: Emanations Pack [0/5]
 
 World Extend 3: Illusions Pack: [20/20]
 
