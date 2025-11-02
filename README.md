@@ -15,17 +15,23 @@ Discordのアカウントを知っていたらDMしてください。
 https://x.com/mattyakyou_game
 
 # 未修整
-wikiに新曲の情報が埋まり次第入力します
+・曲の長さ不明
+始マリノ詩 
+mod
+Particle
+Paradox Palette
+Xxium and Purple haze
+Angel's Boundary
 
 
 # 曲埋めた数
-達成率(ver.6.10.0) [490/497]
+達成率(ver.6.10.0) [497/497]
 
 Arcaea Pack: [63/63]
 
-Memory Archive Pack: [117/119]
+Memory Archive Pack: [119/119]
 
-World Extend 4: Emanations Pack [0/5]
+World Extend 4: Emanations Pack [5/5]
 
 World Extend 3: Illusions Pack: [20/20]
 

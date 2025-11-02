@@ -17693,5 +17693,273 @@
         "chart": "M理論_halt"
       }
     }
+  },
+  {
+    "meta": {
+      "title": "始マリノ詩",
+      "pack": "World Extend 4: Emanations",
+      "composer": "有村京悟 feat. July",
+      "release": "2025-10-30",
+      "update_version": "6.10.0",
+      "side": "Light",
+      "length": NaN,
+      "bpm_min": 128,
+      "bpm_max": 128,
+      "jacket_number": "01ea"
+    },
+    "data": {
+      "Past": {
+        "level": "2",
+        "const": 2.5,
+        "notes": 394,
+        "chart": "Luxance"
+      },
+      "Present": {
+        "level": "5",
+        "const": 5.5,
+        "notes": 492,
+        "chart": "Luxance"
+      },
+      "Future": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 608,
+        "chart": "Luxance"
+      },
+      "Eternal": {
+        "level": "8+",
+        "const": 8.7,
+        "notes": 726,
+        "chart": "Luxance"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "mod",
+      "pack": "World Extend 4: Emanations",
+      "composer": "kalsoer",
+      "release": "2025-10-30",
+      "update_version": "6.10.0",
+      "side": "Light",
+      "length": NaN,
+      "bpm_min": 168,
+      "bpm_max": 168,
+      "jacket_number": "01eb"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 572,
+        "chart": "karat"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.5,
+        "notes": 676,
+        "chart": "karat"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.4,
+        "notes": 853,
+        "chart": "karat"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Particle",
+      "pack": "World Extend 4: Emanations",
+      "composer": "Lime / Kankitsu",
+      "release": "2025-10-30",
+      "update_version": "6.10.0",
+      "side": "Conflict",
+      "length": NaN,
+      "bpm_min": 142,
+      "bpm_max": 142,
+      "jacket_number": "01ec"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 519,
+        "chart": "M理論"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 613,
+        "chart": "M理論"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.5,
+        "notes": 890,
+        "chart": "M理論_charmq"
+      },
+      "Eternal": {
+        "level": "9+",
+        "const": 9.7,
+        "notes": 881,
+        "chart": "M理論_strangeq"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Paradox Palette",
+      "pack": "World Extend 4: Emanations",
+      "composer": "Aethoro",
+      "release": "2025-10-30",
+      "update_version": "6.10.0",
+      "side": "Light",
+      "length": NaN,
+      "bpm_min": 152,
+      "bpm_max": 152,
+      "jacket_number": "01ed"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 476,
+        "chart": "antymis."
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 653,
+        "chart": "antymis."
+      },
+      "Future": {
+        "level": "8+",
+        "const": 8.8,
+        "notes": 814,
+        "chart": "antymis."
+      },
+      "Eternal": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 1043,
+        "chart": "antymis."
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Xxium and Purple haze",
+      "pack": "World Extend 4: Emanations",
+      "composer": "D.watt",
+      "release": "2025-10-30",
+      "update_version": "6.10.0",
+      "side": "Conflict",
+      "length": NaN,
+      "bpm_min": 165,
+      "bpm_max": 165,
+      "jacket_number": "01ee"
+    },
+    "data": {
+      "Past": {
+        "level": "2",
+        "const": 2.5,
+        "notes": 768,
+        "chart": "ẋx"
+      },
+      "Present": {
+        "level": "7+",
+        "const": 7.8,
+        "notes": 806,
+        "chart": "ẋx"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 1182,
+        "chart": "ẋx"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.5,
+        "notes": 1096,
+        "chart": "ẋx"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Angel's Boundary",
+      "pack": "Memory Archive",
+      "composer": "MEMODEMO",
+      "release": "2025-10-30",
+      "update_version": "6.10.0",
+      "side": "Light",
+      "length": NaN,
+      "bpm_min": 196,
+      "bpm_max": 196,
+      "jacket_number": "01ef"
+    },
+    "data": {
+      "Past": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 841,
+        "chart": "[絶,滅)"
+      },
+      "Present": {
+        "level": "8",
+        "const": 8.5,
+        "notes": 1013,
+        "chart": "[絶,滅)"
+      },
+      "Future": {
+        "level": "10",
+        "const": 10.2,
+        "notes": 1246,
+        "chart": "[絶,滅)"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Xterfusion",
+      "pack": "Memory Archive",
+      "composer": "REDALiCE × t+pazolite",
+      "release": "2025-10-30",
+      "update_version": "6.10.0",
+      "side": "Conflict",
+      "length": 169,
+      "bpm_min": 128,
+      "bpm_max": 256,
+      "jacket_number": "01f0"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 640,
+        "chart": "Nitro -fuze- 夜浪"
+      },
+      "Present": {
+        "level": "8",
+        "const": 8.3,
+        "notes": 924,
+        "chart": "Nitro -fuze- 夜浪"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.8,
+        "notes": 1138,
+        "chart": "Nitro -fuze- 夜浪"
+      },
+      "Eternal": {
+        "level": "10+",
+        "const": 10.7,
+        "notes": 1441,
+        "chart": "Nitro -fuze- 夜浪"
+      }
+    }
   }
 ]
