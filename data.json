@@ -17702,7 +17702,7 @@
       "release": "2025-10-30",
       "update_version": "6.10.0",
       "side": "Light",
-      "length": NaN,
+      "length": "",
       "bpm_min": 128,
       "bpm_max": 128,
       "jacket_number": "01ea"
@@ -17742,7 +17742,7 @@
       "release": "2025-10-30",
       "update_version": "6.10.0",
       "side": "Light",
-      "length": NaN,
+      "length": "",
       "bpm_min": 168,
       "bpm_max": 168,
       "jacket_number": "01eb"
@@ -17776,7 +17776,7 @@
       "release": "2025-10-30",
       "update_version": "6.10.0",
       "side": "Conflict",
-      "length": NaN,
+      "length": "",
       "bpm_min": 142,
       "bpm_max": 142,
       "jacket_number": "01ec"
@@ -17816,7 +17816,7 @@
       "release": "2025-10-30",
       "update_version": "6.10.0",
       "side": "Light",
-      "length": NaN,
+      "length": "",
       "bpm_min": 152,
       "bpm_max": 152,
       "jacket_number": "01ed"
@@ -17856,7 +17856,7 @@
       "release": "2025-10-30",
       "update_version": "6.10.0",
       "side": "Conflict",
-      "length": NaN,
+      "length": "",
       "bpm_min": 165,
       "bpm_max": 165,
       "jacket_number": "01ee"
@@ -17896,7 +17896,7 @@
       "release": "2025-10-30",
       "update_version": "6.10.0",
       "side": "Light",
-      "length": NaN,
+      "length": "",
       "bpm_min": 196,
       "bpm_max": 196,
       "jacket_number": "01ef"
