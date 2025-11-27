@@ -16,28 +16,44 @@ https://x.com/mattyakyou_game
 
 # 未修整
 ・INFINITE DIMENSION
+
 length, const(Past/Present)
+
 
 ・INCARNATOR₀₀
+
 const(Past/Present)
 
+
 ・zephyrlasting
+
 length, const(Past/Present), notes(Past/Present)
+
 
 ・MARENYX
+
 length, const(Past/Present), notes(Present)
 
+
 ・Code: Oblivion
+
 length, const(Past/Present), notes(Past/Present)
 
+
 ・ΛZΛLEΛ
+
 length, const(Past/Present), notes(Past)
 
+
 ・Grandspell
+
 length, const(Past/Present)
 
+
 ・taboo tears you up 2017
+
 length, const(Past/Present)
+
 
 
 # 曲埋めた数
