@@ -15,44 +15,44 @@ Discordのアカウントを知っていたらDMしてください。
 https://x.com/mattyakyou_game
 
 # 未修整
-・INFINITE DIMENSION
+*INFINITE DIMENSION
 
-length, const(Past/Present)
-
-
-・INCARNATOR₀₀
-
-const(Past/Present)
+    *length, const(Past/Present)
 
 
-・zephyrlasting
+*INCARNATOR₀₀
 
-length, const(Past/Present), notes(Past/Present)
-
-
-・MARENYX
-
-length, const(Past/Present), notes(Present)
+    *const(Past/Present)
 
 
-・Code: Oblivion
+*zephyrlasting
 
-length, const(Past/Present), notes(Past/Present)
-
-
-・ΛZΛLEΛ
-
-length, const(Past/Present), notes(Past)
+    *length, const(Past/Present), notes(Past/Present)
 
 
-・Grandspell
+*MARENYX
 
-length, const(Past/Present)
+    *length, const(Past/Present), notes(Present)
 
 
-・taboo tears you up 2017
+*Code: Oblivion
 
-length, const(Past/Present)
+    *length, const(Past/Present), notes(Past/Present)
+
+
+*ΛZΛLEΛ
+
+    *length, const(Past/Present), notes(Past)
+
+
+*Grandspell
+
+    *length, const(Past/Present)
+
+
+*taboo tears you up 2017
+
+    *length, const(Past/Present)
 
 
 
