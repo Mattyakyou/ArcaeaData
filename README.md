@@ -17,7 +17,8 @@ Discordのアカウントを知っていたらDMしてください。
 # 未修整
 * INFINITE DIMENSION
 
-    * length, const(Past/Present)
+    * length
+    * const(Past/Present)
 
 
 * INCARNATOR₀₀
@@ -27,32 +28,42 @@ Discordのアカウントを知っていたらDMしてください。
 
 * zephyrlasting
 
-    * length, const(Past/Present), notes(Past/Present)
+    * length
+    * const(Past/Present)
+    * notes(Past/Present)
 
 
 * MARENYX
 
-    * length, const(Past/Present), notes(Present)
+    * length
+    * const(Past/Present)
+    * notes(Present)
 
 
 * Code: Oblivion
 
-    * length, const(Past/Present), notes(Past/Present)
+    * length
+    * const(Past/Present)
+    * notes(Past/Present)
 
 
 * ΛZΛLEΛ
 
-    * length, const(Past/Present), notes(Past)
+    * length
+    * const(Past/Present)
+    * notes(Past)
 
 
 * Grandspell
 
-    * length, const(Past/Present)
+    * length
+    * const(Past/Present)
 
 
 * taboo tears you up 2017
 
-    * length, const(Past/Present)
+    * length
+    * const(Past/Present)
 
 
 
