@@ -15,23 +15,39 @@ Discordのアカウントを知っていたらDMしてください。
 https://x.com/mattyakyou_game
 
 # 未修整
-・曲の長さ不明
-始マリノ詩 
-mod
-Particle
-Paradox Palette
-Xxium and Purple haze
-Angel's Boundary
+・INFINITE DIMENSION
+length, const(Past/Present)
+
+・INCARNATOR₀₀
+const(Past/Present)
+
+・zephyrlasting
+length, const(Past/Present), notes(Past/Present)
+
+・MARENYX
+length, const(Past/Present), notes(Present)
+
+・Code: Oblivion
+length, const(Past/Present), notes(Past/Present)
+
+・ΛZΛLEΛ
+length, const(Past/Present), notes(Past)
+
+・Grandspell
+length, const(Past/Present)
+
+・taboo tears you up 2017
+length, const(Past/Present)
 
 
 # 曲埋めた数
-達成率(ver.6.10.0) [497/497]
+達成率(ver.6.11.0) [505/505]
 
 Arcaea Pack: [63/63]
 
-Memory Archive Pack: [119/119]
+Memory Archive Pack: [120/120]
 
-World Extend 4: Emanations Pack [5/5]
+World Extend 4: Emanations Pack [6/6]
 
 World Extend 3: Illusions Pack: [20/20]
 
@@ -76,6 +92,8 @@ Binary Enfold Pack: [8/8]
 Ambivalent Vision Pack: [6/6]
 
 Crimson Solace Pack: [6/6]
+
+Arcaea Next Stage Pack: [6/6]
 
 DJMAX Collaboration Pack: [10/10]
 
