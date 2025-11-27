@@ -1,5 +1,5 @@
-# arcaea_data.json
-arcaea_data.jsonにジャケットを担当したイラストレーターを除くあらかたのデータが入っています。(譜面定数、レベル、担当コンポーサー、入ってきたバージョン、etc...)
+# data.json
+data.jsonにジャケットを担当したイラストレーターを除くあらかたのデータが入っています。(譜面定数、レベル、担当コンポーサー、入ってきたバージョン、etc...)
 # jacket
 .jsonにジャケットのタイトルが書いてあります
 
@@ -76,7 +76,7 @@ Memory Archive Pack: [120/120]
 
 World Extend 4: Emanations Pack [6/6]
 
-World Extend 3: Illusions Pack: [20/20]
+Extend Archive 3: Illusions Pack: [20/20]
 
 Extend Archive 2: Chronicles Pack: [20/20]
 
