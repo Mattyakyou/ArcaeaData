@@ -17978,13 +17978,13 @@
     "data": {
       "Past": {
         "level": "2",
-        "const": "",
+        "const": 2.5,
         "notes": 566,
         "chart": "én"
       },
       "Present": {
         "level": "6",
-        "const": "",
+        "const": 6.0,
         "notes": 708,
         "chart": "én"
       },
@@ -18018,13 +18018,13 @@
     "data": {
       "Past": {
         "level": "3",
-        "const": "",
+        "const": 3.5,
         "notes": 1178,
         "chart": "M理論_origin"
       },
       "Present": {
         "level": "6",
-        "const": "",
+        "const": 6.5,
         "notes": 1276,
         "chart": "M理論_origin"
       },
@@ -18058,14 +18058,14 @@
     "data": {
       "Past": {
         "level": "3",
-        "const": "",
-        "notes": "",
+        "const": 3.5,
+        "notes": 563,
         "chart": "Souplex"
       },
       "Present": {
         "level": "7",
-        "const": "",
-        "notes": "",
+        "const": 7.5,
+        "notes": 832,
         "chart": "Souplex"
       },
       "Future": {
@@ -18098,14 +18098,14 @@
     "data": {
       "Past": {
         "level": "4",
-        "const": "",
+        "const": 4.5,
         "notes": 886,
         "chart": "raycast against.零下"
       },
       "Present": {
         "level": "7+",
-        "const": "",
-        "notes": "",
+        "const": 7.8,
+        "notes": 1143,
         "chart": "raycast against.零下"
       },
       "Future": {
@@ -18130,7 +18130,7 @@
       "release": "2025-11-22",
       "update_version": "6.10.8",
       "side": "Conflict",
-      "length": "",
+      "length": 154,
       "bpm_min": 200,
       "bpm_max": 200,
       "jacket_number": "01f5"
@@ -18138,14 +18138,14 @@
     "data": {
       "Past": {
         "level": "5",
-        "const": "",
-        "notes": "",
+        "const": 5.5,
+        "notes": 773,
         "chart": "~sidewaves"
       },
       "Present": {
         "level": "8",
-        "const": "",
-        "notes": "",
+        "const": 8.3,
+        "notes": 1015,
         "chart": "~sidewaves"
       },
       "Future": {
@@ -18178,13 +18178,13 @@
     "data": {
       "Past": {
         "level": "4",
-        "const": "",
-        "notes": "",
+        "const": 4.0,
+        "notes": 847,
         "chart": "Nitro「The Ephemaral」"
       },
       "Present": {
         "level": "7",
-        "const": "",
+        "const": 7.0,
         "notes": 973,
         "chart": "Nitro「The Ephemaral」"
       },
@@ -18218,13 +18218,13 @@
     "data": {
       "Past": {
         "level": "4",
-        "const": "",
+        "const": 4.4,
         "notes": 704,
         "chart": "Exschwasion"
       },
       "Present": {
         "level": "8",
-        "const": "",
+        "const": 8.4,
         "notes": 977,
         "chart": "Exschwasion"
       },
@@ -18252,13 +18252,13 @@
     "data": {
       "Past": {
         "level": "3",
-        "const": "",
+        "const": 3.0,
         "notes": 449,
         "chart": "SiDEWAVES"
       },
       "Present": {
         "level": "6",
-        "const": "",
+        "const": 6.5,
         "notes": 637,
         "chart": "SiDEWAVES"
       },
