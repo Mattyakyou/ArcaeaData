@@ -1,7 +1,5 @@
-来月まで壊れてます。
-
 # data.json
-data.jsonにジャケットを担当したイラストレーターを除くあらかたのデータが入っています。(譜面定数、レベル、担当コンポーサー、入ってきたバージョン、etc...)
+data.jsonにあらかたのデータが入っています。(譜面定数、レベル、担当コンポーサー、入ってきたバージョン、etc...)
 # jacket
 .jsonにジャケットのタイトルが書いてあります
 
@@ -13,34 +11,12 @@ data.jsonにジャケットを担当したイラストレーターを除くあ�
 
 # 間違えている場所を見つけた場合
 Discordのアカウントを知っていたらDMしてください。
-知らなかった場合、[Twitterのアカウント](https://x.com/mattyakyou_game)です。
+知らなかった場合、下記のフォームに入力すれば直すかもです。
+https://forms.gle/J3c5UqcVD92jSPCTA
 
 
 # 未修整
-* INFINITE DIMENSION
-
-    * length
-
-* zephyrlasting
-
-    * length
-
-* MARENYX
-
-    * length
-
-* ΛZΛLEΛ
-
-    * length
-
-* Grandspell
-
-    * length
-
-* taboo tears you up 2017
-
-    * length
-
+あったら教えてください。
 
 
 # 曲埋めた数

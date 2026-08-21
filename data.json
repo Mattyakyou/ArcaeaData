@@ -13308,7 +13308,7 @@
   {
     "meta": {
       "title": "心の痛み",
-      "pack": "UNDERTALE Collaboration",
+      "pack": "UNDERTALE",
       "composer": "Toby Fox",
       "release": "2025-03-09",
       "update_version": "6.3.0",
@@ -13348,7 +13348,7 @@
   {
     "meta": {
       "title": "華麗なる死闘",
-      "pack": "UNDERTALE Collaboration",
+      "pack": "UNDERTALE",
       "composer": "Toby Fox",
       "release": "2025-03-09",
       "update_version": "6.3.0",
@@ -13388,7 +13388,7 @@
   {
     "meta": {
       "title": "最高の悪夢",
-      "pack": "UNDERTALE Collaboration",
+      "pack": "UNDERTALE",
       "composer": "Toby Fox",
       "release": "2025-03-09",
       "update_version": "6.3.0",
@@ -13433,7 +13433,7 @@
   {
     "meta": {
       "title": "これでホントにサヨナラ",
-      "pack": "UNDERTALE Collaboration",
+      "pack": "UNDERTALE",
       "composer": "Toby Fox",
       "release": "2025-03-09",
       "update_version": "6.3.0",
@@ -13473,7 +13473,7 @@
   {
     "meta": {
       "title": "MEGALOVANIA",
-      "pack": "UNDERTALE Collaboration",
+      "pack": "UNDERTALE",
       "composer": "Toby Fox",
       "release": "2025-03-09",
       "update_version": "6.3.0",
@@ -17970,7 +17970,7 @@
       "release": "2025-11-22",
       "update_version": "6.10.8",
       "side": "Light",
-      "length": "",
+      "length": 144,
       "bpm_min": 200,
       "bpm_max": 200,
       "jacket_number": "01f1"
@@ -18050,7 +18050,7 @@
       "release": "2025-11-22",
       "update_version": "6.10.8",
       "side": "Conflict",
-      "length": "",
+      "length": 157,
       "bpm_min": 155,
       "bpm_max": 155,
       "jacket_number": "01f3"
@@ -18090,7 +18090,7 @@
       "release": "2025-11-22",
       "update_version": "6.10.8",
       "side": "Conflict",
-      "length": "",
+      "length": 165,
       "bpm_min": 195,
       "bpm_max": 195,
       "jacket_number": "01f4"
@@ -18170,7 +18170,7 @@
       "release": "2025-11-22",
       "update_version": "6.10.8",
       "side": "Light",
-      "length": "",
+      "length": 156,
       "bpm_min": 180,
       "bpm_max": 180,
       "jacket_number": "01f6"
@@ -18210,7 +18210,7 @@
       "release": "2025-11-27",
       "update_version": "6.11.0",
       "side": "Conflict",
-      "length": "",
+      "length": 168,
       "bpm_min": 168,
       "bpm_max": 168,
       "jacket_number": "01f7"
@@ -18244,7 +18244,7 @@
       "release": "2025-11-27",
       "update_version": "6.11.0",
       "side": "Conflict",
-      "length": "",
+      "length": 140,
       "bpm_min": 180,
       "bpm_max": 180,
       "jacket_number": "01f8"
@@ -18273,6 +18273,1420 @@
         "const": 9.8,
         "notes": 1125,
         "chart": "én"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Paranoid Arc",
+      "pack": "Memory Archive",
+      "composer": "t+pazolite",
+      "release": "2025-12-24",
+      "update_version": "6.11.2",
+      "side": "Conflict",
+      "length": 158,
+      "bpm_min": 180,
+      "bpm_max": 180,
+      "jacket_number": "01f9"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 762,
+        "chart": "Exschwasion v.●/○/○"
+      },
+      "Present": {
+        "level": "7+",
+        "const": 7.8,
+        "notes": 849,
+        "chart": "Exschwasion v.●/○/○"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.6,
+        "notes": 1204,
+        "chart": "Exschwasion v.●/○/○"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.5,
+        "notes": 1412,
+        "chart": "Exschwasion v.●/○/○"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "羽化する亜球体",
+      "pack": "Memory Archive",
+      "composer": "窓辺リカ",
+      "release": "2025-12-31",
+      "update_version": "6.11.6",
+      "side": "Light",
+      "length": 146,
+      "bpm_min": 120,
+      "bpm_max": 120,
+      "jacket_number": "01fa"
+    },
+    "data": {
+      "Past": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 781,
+        "chart": "Nitro v.○/●/○"
+      },
+      "Present": {
+        "level": "8",
+        "const": 8.1,
+        "notes": 997,
+        "chart": "Nitro v.○/●/○"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.6,
+        "notes": 1177,
+        "chart": "Nitro v.○/●/○"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.6,
+        "notes": 1327,
+        "chart": "Nitro v.○/●/○"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。",
+      "pack": "Memory Archive",
+      "composer": "庭師",
+      "release": "2026-01-07",
+      "update_version": "6.11.8",
+      "side": "Conflict",
+      "length": 159,
+      "bpm_min": 161,
+      "bpm_max": 161,
+      "jacket_number": "01fb"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 722,
+        "chart": "Interator"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 803,
+        "chart": "Interator"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.5,
+        "notes": 999,
+        "chart": "Interator"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.4,
+        "notes": 1193,
+        "chart": "raycast v.○/○/●"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "undefined",
+      "pack": "World Extend 4: Emanations",
+      "composer": "planless & 乃花こより",
+      "release": "2025-12-24",
+      "update_version": "6.11.2",
+      "side": "Conflict",
+      "length": 145,
+      "bpm_min": 110,
+      "bpm_max": 110,
+      "jacket_number": "01fc"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 371,
+        "chart": "sidewaves"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 532,
+        "chart": "sidewaves"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.4,
+        "notes": 896,
+        "chart": "sidewaves + Nitro"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "~_+",
+      "pack": "World Extend 4: Emanations",
+      "composer": "AQUASINE ~ MEMODEMO + METAROOM",
+      "release": "2025-12-24",
+      "update_version": "6.11.2",
+      "side": "Light",
+      "length": 158,
+      "bpm_min": 213.5,
+      "bpm_max": 213.5,
+      "jacket_number": "01fd"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 869,
+        "chart": "KARA+_~1.TMP"
+      },
+      "Present": {
+        "level": "8",
+        "const": 8.0,
+        "notes": 994,
+        "chart": "KARA+_~1.TMP"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 1201,
+        "chart": "KARA+_~1.TMP"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "おまじない",
+      "pack": "World Extend 4: Emanations",
+      "composer": "Tsubusare BOZZ × Madoka*",
+      "release": "2026-01-29",
+      "update_version": "6.12.0",
+      "side": "Light",
+      "length": 137,
+      "bpm_min": 133,
+      "bpm_max": 133,
+      "jacket_number": "01fe"
+    },
+    "data": {
+      "Past": {
+        "level": "2",
+        "const": 2.5,
+        "notes": 288,
+        "chart": "Souplex"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 572,
+        "chart": "Souplex"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.4,
+        "notes": 886,
+        "chart": "Souplex"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "CHAIN2NITE",
+      "pack": "MEGAREX Collaboration",
+      "composer": "asuzora feat. cyber milk ちゃん",
+      "release": "2026-01-29",
+      "update_version": "6.12.0",
+      "side": "Conflict",
+      "length": 151,
+      "bpm_min": 172,
+      "bpm_max": 172,
+      "jacket_number": "01ff"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 723,
+        "chart": "raycast"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.5,
+        "notes": 759,
+        "chart": "raycast"
+      },
+      "Future": {
+        "level": "8",
+        "const": 8.6,
+        "notes": 883,
+        "chart": "raycast"
+      },
+      "Eternal": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 1037,
+        "chart": "raycast"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "One Step Closer",
+      "pack": "MEGAREX Collaboration",
+      "composer": "Mameyudoufu × 藍月なくる",
+      "release": "2026-01-29",
+      "update_version": "6.12.0",
+      "side": "Light",
+      "length": 146,
+      "bpm_min": 123,
+      "bpm_max": 123,
+      "jacket_number": "0200"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 454,
+        "chart": "Nitroだー！"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 551,
+        "chart": "Nitroだー！"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.5,
+        "notes": 752,
+        "chart": "Nitroだー！"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "My life is mine alone!",
+      "pack": "MEGAREX Collaboration",
+      "composer": "Mylta feat. ねんね",
+      "release": "2026-01-29",
+      "update_version": "6.12.0",
+      "side": "Light",
+      "length": 168,
+      "bpm_min": 144,
+      "bpm_max": 168,
+      "jacket_number": "0201"
+    },
+    "data": {
+      "Past": {
+        "level": "2",
+        "const": 2.5,
+        "notes": 460,
+        "chart": "Nitro"
+      },
+      "Present": {
+        "level": "5",
+        "const": 5.5,
+        "notes": 612,
+        "chart": "Nitro"
+      },
+      "Future": {
+        "level": "8+",
+        "const": 8.8,
+        "notes": 933,
+        "chart": "Nitro"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.1,
+        "notes": 1075,
+        "chart": "antymis"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "メルティーラプソディー",
+      "pack": "MEGAREX Collaboration",
+      "composer": "lapix feat. PANXI",
+      "release": "2026-01-29",
+      "update_version": "6.12.0",
+      "side": "Light",
+      "length": 156,
+      "bpm_min": 156,
+      "bpm_max": 156,
+      "jacket_number": "0202"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 582,
+        "chart": "M理論_liquid"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 790,
+        "chart": "M理論_liquid"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.6,
+        "notes": 975,
+        "chart": "M理論_liquid"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.4,
+        "notes": 1185,
+        "chart": "M理論_liquid"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Signal",
+      "pack": "MEGAREX Collaboration",
+      "composer": "rejection feat. Such",
+      "release": "2026-01-29",
+      "update_version": "6.12.0",
+      "side": "Conflict",
+      "length": 165,
+      "bpm_min": 175,
+      "bpm_max": 175,
+      "jacket_number": "0203"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 582,
+        "chart": "én"
+      },
+      "Present": {
+        "level": "7+",
+        "const": 7.8,
+        "notes": 824,
+        "chart": "én"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.8,
+        "notes": 1151,
+        "chart": "én"
+      },
+      "Eternal": {
+        "level": "10+",
+        "const": 10.7,
+        "notes": 1245,
+        "chart": "絶滅"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "キャラメルポップコーンたべたいよ～",
+      "pack": "Arcaea",
+      "composer": "ヤミナベレコーズ feat. 繭糸",
+      "release": "2026-02-19",
+      "update_version": "6.12.10",
+      "side": "Light",
+      "length": 145,
+      "bpm_min": 180,
+      "bpm_max": 180,
+      "jacket_number": "0204"
+    },
+    "data": {
+      "Past": {
+        "level": "2",
+        "const": 2.5,
+        "notes": 610,
+        "chart": "Interator"
+      },
+      "Present": {
+        "level": "5",
+        "const": 5.5,
+        "notes": 579,
+        "chart": "Interator"
+      },
+      "Future": {
+        "level": "8",
+        "const": 8.1,
+        "notes": 767,
+        "chart": "Interator"
+      },
+      "Eternal": {
+        "level": "9",
+        "const": 9.1,
+        "notes": 959,
+        "chart": "Interator"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "+1(UNKNOWN)-NUMBER",
+      "pack": "Memory Archive",
+      "composer": "MEMODEMO × AQUASINE ^ (hackerling)",
+      "release": "2026-02-19",
+      "update_version": "6.12.10",
+      "side": "Conflict",
+      "length": 145,
+      "bpm_min": 145,
+      "bpm_max": 145,
+      "jacket_number": "0205"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 486,
+        "chart": "M理論_GSM"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 619,
+        "chart": "M理論_GSM"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.7,
+        "notes": 882,
+        "chart": "M理論_GSM"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "森奥虚跡",
+      "pack": "World Extend 4: Emanations",
+      "composer": "ShiBa",
+      "release": "2026-02-19",
+      "update_version": "6.12.10",
+      "side": "Light",
+      "length": 163,
+      "bpm_min": 192,
+      "bpm_max": 192,
+      "jacket_number": "0206"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 582,
+        "chart": "Nitro"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.5,
+        "notes": 748,
+        "chart": "Nitro"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.7,
+        "notes": 1065,
+        "chart": "Nitro"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "GOODRAGE",
+      "pack": "Memory Archive",
+      "composer": "EBIMAYO",
+      "release": "2026-03-09",
+      "update_version": "6.13.0",
+      "side": "Light",
+      "length": 120,
+      "bpm_min": 222,
+      "bpm_max": 222,
+      "jacket_number": "0207"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 576,
+        "chart": "Interator"
+      },
+      "Present": {
+        "level": "7+",
+        "const": 7.8,
+        "notes": 702,
+        "chart": "Interator"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.3,
+        "notes": 834,
+        "chart": "Interator"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.2,
+        "notes": 1035,
+        "chart": "NORANEKO"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Cryogenic",
+      "pack": "Memory Archive",
+      "composer": "Camellia ft. Petra Gurin",
+      "release": "2026-03-09",
+      "update_version": "6.13.0",
+      "side": "Conflict",
+      "length": 140,
+      "bpm_min": 145,
+      "bpm_max": 145,
+      "jacket_number": "0208"
+    },
+    "data": {
+      "Past": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 510,
+        "chart": "raycast /connected/"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 680,
+        "chart": "raycast /connected/"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.2,
+        "notes": 831,
+        "chart": "raycast /connected/"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.1,
+        "notes": 1014,
+        "chart": "raycast /connected/"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Desertrealm",
+      "pack": "Memory Archive",
+      "composer": "Masahiro \"Godspeed\" Aoki",
+      "release": "2026-03-09",
+      "update_version": "6.13.0",
+      "side": "Conflict",
+      "length": 154,
+      "bpm_min": 216,
+      "bpm_max": 216,
+      "jacket_number": "0209"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 843,
+        "chart": "karat -weathered-"
+      },
+      "Present": {
+        "level": "8",
+        "const": 8.5,
+        "notes": 1000,
+        "chart": "karat -weathered-"
+      },
+      "Future": {
+        "level": "10",
+        "const": 10.6,
+        "notes": 1460,
+        "chart": "karat -weathered-"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "3rd Avenue",
+      "pack": "World Extend 4: Emanations",
+      "composer": "Sound Souler",
+      "release": "2026-03-09",
+      "update_version": "6.13.0",
+      "side": "Conflict",
+      "length": 158,
+      "bpm_min": 130,
+      "bpm_max": 130,
+      "jacket_number": "020a"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 529,
+        "chart": "Souplex"
+      },
+      "Present": {
+        "level": "8",
+        "const": 8.1,
+        "notes": 761,
+        "chart": "Souplex"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.2,
+        "notes": 748,
+        "chart": "New Dimensions"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Vallista",
+      "pack": "World Extend 4: Emanations",
+      "composer": "Sakuzyo",
+      "release": "2026-03-09",
+      "update_version": "6.13.0",
+      "side": "Light",
+      "length": 127,
+      "bpm_min": 180,
+      "bpm_max": 180,
+      "jacket_number": "020b"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 548,
+        "chart": "sidewaves"
+      },
+      "Present": {
+        "level": "7+",
+        "const": 7.8,
+        "notes": 681,
+        "chart": "sidewaves"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.7,
+        "notes": 869,
+        "chart": "sidewaves"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Altersist",
+      "pack": "Memory Archive",
+      "composer": "void (Mournfinale)",
+      "release": "2026-05-28",
+      "update_version": "6.14.10",
+      "side": "Light",
+      "length": 175,
+      "bpm_min": 138,
+      "bpm_max": 138,
+      "jacket_number": "020c"
+    },
+    "data": {
+      "Past": {
+        "level": "2",
+        "const": 2.5,
+        "notes": 454,
+        "chart": "sidewaves"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 621,
+        "chart": "sidewaves"
+      },
+      "Future": {
+        "level": "8",
+        "const": 8.4,
+        "notes": 803,
+        "chart": "sidewaves"
+      },
+      "Eternal": {
+        "level": "9+",
+        "const": 9.8,
+        "notes": 1077,
+        "chart": "sidewaves"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "c.s.q.n.",
+      "pack": "Memory Archive",
+      "composer": "Aoi",
+      "release": "2026-05-28",
+      "update_version": "6.14.10",
+      "side": "Conflict",
+      "length": 124,
+      "bpm_min": 174,
+      "bpm_max": 174,
+      "jacket_number": "020d"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 418,
+        "chart": "Nitro"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 625,
+        "chart": "Nitro"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.6,
+        "notes": 923,
+        "chart": "Nitro"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.3,
+        "notes": 1071,
+        "chart": "Nitro"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "MIRROR - kamome sano remix",
+      "pack": "World Extend 4: Emanations",
+      "composer": "kamome sano",
+      "release": "2026-04-30",
+      "update_version": "6.14.0",
+      "side": "Light",
+      "length": 142,
+      "bpm_min": 177,
+      "bpm_max": 177,
+      "jacket_number": "020e"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 654,
+        "chart": "nora::neko"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 742,
+        "chart": "nora::neko"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 972,
+        "chart": "nora::neko"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Riot in the System",
+      "pack": "World Extend 4: Emanations",
+      "composer": "Laur & Massive New Krew feat. 社築",
+      "release": "2026-04-30",
+      "update_version": "6.14.0",
+      "side": "Conflict",
+      "length": 151,
+      "bpm_min": 200,
+      "bpm_max": 200,
+      "jacket_number": "020f"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 755,
+        "chart": "Interioter"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 782,
+        "chart": "Interioter"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.5,
+        "notes": 998,
+        "chart": "Interioter"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.1,
+        "notes": 1214,
+        "chart": "Interioter"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "flexidefine",
+      "pack": "World Extend 4: Emanations",
+      "composer": "Lamanya",
+      "release": "2026-05-28",
+      "update_version": "6.14.10",
+      "side": "Conflict",
+      "length": 144,
+      "bpm_min": 197,
+      "bpm_max": 197,
+      "jacket_number": "0210"
+    },
+    "data": {
+      "Past": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 644,
+        "chart": "flexi::feline"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 842,
+        "chart": "flexi::feline"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 1055,
+        "chart": "flexi::feline"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Cosmogyral",
+      "pack": "World Extend 4: Emanations",
+      "composer": "Darren + Altermis",
+      "release": "2026-05-28",
+      "update_version": "6.14.10",
+      "side": "Light",
+      "length": 145,
+      "bpm_min": 180,
+      "bpm_max": 180,
+      "jacket_number": "0211"
+    },
+    "data": {
+      "Past": {
+        "level": "2",
+        "const": 2.5,
+        "notes": 547,
+        "chart": "Interator"
+      },
+      "Present": {
+        "level": "5",
+        "const": 5.5,
+        "notes": 687,
+        "chart": "Interator"
+      },
+      "Future": {
+        "level": "8",
+        "const": 8.6,
+        "notes": 916,
+        "chart": "Interator"
+      },
+      "Eternal": {
+        "level": "9+",
+        "const": 9.8,
+        "notes": 1049,
+        "chart": "Interator"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "スパイダーダンス",
+      "pack": "UNDERTALE",
+      "composer": "Toby Fox",
+      "release": "2026-04-30",
+      "update_version": "6.14.0",
+      "side": "Light",
+      "length": 107,
+      "bpm_min": 230,
+      "bpm_max": 230,
+      "jacket_number": "0212"
+    },
+    "data": {
+      "Past": {
+        "level": "2",
+        "const": 2.5,
+        "notes": 525,
+        "chart": "24 KARAT GOLD"
+      },
+      "Present": {
+        "level": "5",
+        "const": 5.5,
+        "notes": 526,
+        "chart": "24 KARAT GOLD"
+      },
+      "Future": {
+        "level": "7+",
+        "const": 7.8,
+        "notes": 553,
+        "chart": "24 KARAT GOLD"
+      },
+      "Eternal": {
+        "level": "9",
+        "const": 9.5,
+        "notes": 666,
+        "chart": "24 KARAT GOLD"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "正義の槍",
+      "pack": "UNDERTALE",
+      "composer": "Toby Fox",
+      "release": "2026-04-30",
+      "update_version": "6.14.0",
+      "side": "Light",
+      "length": 116,
+      "bpm_min": 263,
+      "bpm_max": 263,
+      "jacket_number": "0213"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 308,
+        "chart": "antymis"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.5,
+        "notes": 452,
+        "chart": "antymis"
+      },
+      "Future": {
+        "level": "8",
+        "const": 8.8,
+        "notes": 607,
+        "chart": "antymis"
+      },
+      "Eternal": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 761,
+        "chart": "antymis"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "アズゴア",
+      "pack": "UNDERTALE",
+      "composer": "Toby Fox",
+      "release": "2026-04-30",
+      "update_version": "6.14.0",
+      "side": "Light",
+      "length": 157,
+      "bpm_min": 229.69,
+      "bpm_max": 229.69,
+      "jacket_number": "0214"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 797,
+        "chart": "Nitro"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 1044,
+        "chart": "Souplex"
+      },
+      "Future": {
+        "level": "8+",
+        "const": 8.8,
+        "notes": 1006,
+        "chart": "Souplex + Nitro"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.2,
+        "notes": 1255,
+        "chart": "sidewaves -Bergentrückung-"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "ザラメノキワミ",
+      "pack": "Memory Archive",
+      "composer": "STEAKA",
+      "release": "2026-06-25",
+      "update_version": "6.15.0",
+      "side": "Conflict",
+      "length": 147,
+      "bpm_min": 148,
+      "bpm_max": 148,
+      "jacket_number": "0215"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 477,
+        "chart": "Souplex"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.5,
+        "notes": 731,
+        "chart": "Souplex"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.1,
+        "notes": 951,
+        "chart": "Souplex"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.1,
+        "notes": 1216,
+        "chart": "karat"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "ラヴィ",
+      "pack": "Virtual Singers",
+      "composer": "すりぃ",
+      "release": "2026-06-25",
+      "update_version": "6.15.0",
+      "side": "Conflict",
+      "length": 149,
+      "bpm_min": 183,
+      "bpm_max": 183,
+      "jacket_number": "0216"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 598,
+        "chart": "Nitro"
+      },
+      "Present": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 698,
+        "chart": "Nitro"
+      },
+      "Future": {
+        "level": "8+",
+        "const": 8.8,
+        "notes": 903,
+        "chart": "Nitro"
+      },
+      "Eternal": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 1125,
+        "chart": "sidewavesチュウ"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "神っぽいな",
+      "pack": "Virtual Singers",
+      "composer": "ピノキオピー",
+      "release": "2026-06-25",
+      "update_version": "6.15.0",
+      "side": "Conflict",
+      "length": 152,
+      "bpm_min": 103,
+      "bpm_max": 142,
+      "jacket_number": "0217"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 3.5,
+        "notes": 522,
+        "chart": "絶滅っぽいな"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 645,
+        "chart": "絶滅っぽいな"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.3,
+        "notes": 945,
+        "chart": "絶滅っぽいな"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10,
+        "notes": 1116,
+        "chart": "絶滅っぽいな"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "オーバーライド",
+      "pack": "Virtual Singers",
+      "composer": "吉田夜世",
+      "release": "2026-06-25",
+      "update_version": "6.15.0",
+      "side": "Light",
+      "length": 139,
+      "bpm_min": 204,
+      "bpm_max": 204,
+      "jacket_number": "0218"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 583,
+        "chart": "sudo M理論"
+      },
+      "Present": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 723,
+        "chart": "sudo M理論"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.5,
+        "notes": 917,
+        "chart": "sudo M理論"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.2,
+        "notes": 1083,
+        "chart": "sudo M理論"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "テレパシ",
+      "pack": "Virtual Singers",
+      "composer": "DECO*27",
+      "release": "2026-06-25",
+      "update_version": "6.15.0",
+      "side": "Light",
+      "length": 138,
+      "bpm_min": 205,
+      "bpm_max": 205,
+      "jacket_number": "0219"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 484,
+        "chart": ";-b"
+      },
+      "Present": {
+        "level": "7+",
+        "const": 7.8,
+        "notes": 766,
+        "chart": ";-b"
+      },
+      "Future": {
+        "level": "9",
+        "const": 9.6,
+        "notes": 880,
+        "chart": ";-b"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.4,
+        "notes": 1131,
+        "chart": ";-b"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "愛して愛して愛して",
+      "pack": "Virtual Singers",
+      "composer": "きくお",
+      "release": "2026-06-25",
+      "update_version": "6.15.0",
+      "side": "Conflict",
+      "length": 128,
+      "bpm_min": 230,
+      "bpm_max": 230,
+      "jacket_number": "021a"
+    },
+    "data": {
+      "Past": {
+        "level": "3",
+        "const": 3.5,
+        "notes": 676,
+        "chart": "反水反水反水"
+      },
+      "Present": {
+        "level": "7",
+        "const": 6.5,
+        "notes": 799,
+        "chart": "反水反水反水"
+      },
+      "Future": {
+        "level": "8+",
+        "const": 8.7,
+        "notes": 837,
+        "chart": "反水反水反水"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.5,
+        "notes": 1039,
+        "chart": "煌磨煌磨煌磨"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "chronologia",
+      "pack": "Memory Archive",
+      "composer": "lowiro Sound Team (ak+q x nitro)",
+      "release": "2026-07-31",
+      "update_version": "6.16.0",
+      "side": "Light",
+      "length": 170,
+      "bpm_min": 180,
+      "bpm_max": 180,
+      "jacket_number": "021b"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 790,
+        "chart": "Nitro"
+      },
+      "Present": {
+        "level": "7+",
+        "const": 7.8,
+        "notes": 1051,
+        "chart": "Nitro"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.8,
+        "notes": 1230,
+        "chart": "Nitro"
+      },
+      "Eternal": {
+        "level": "10+",
+        "const": 10.8,
+        "notes": 1468,
+        "chart": "Nitro x Toaster"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Synthesis.",
+      "pack": "Memory Archive",
+      "composer": "tn-shi",
+      "release": "2026-07-31",
+      "update_version": "6.16.0",
+      "side": "Conflict",
+      "length": 162,
+      "bpm_min": 180,
+      "bpm_max": 180,
+      "jacket_number": "021c"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 764,
+        "chart": "Souplex"
+      },
+      "Present": {
+        "level": "8",
+        "const": 8.2,
+        "notes": 1109,
+        "chart": "Souplex"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.7,
+        "notes": 1192,
+        "chart": "Souplex"
+      },
+      "Eternal": {
+        "level": "10",
+        "const": 10.5,
+        "notes": 1469,
+        "chart": "Synthesis.raycast()"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Acid God",
+      "pack": "Memory Archive",
+      "composer": "Yuta Imai",
+      "release": "2026-07-31",
+      "update_version": "6.16.0",
+      "side": "Conflict",
+      "length": 146,
+      "bpm_min": 160,
+      "bpm_max": 160,
+      "jacket_number": "021d"
+    },
+    "data": {
+      "Past": {
+        "level": "4",
+        "const": 4.5,
+        "notes": 554,
+        "chart": "nora::pengin"
+      },
+      "Present": {
+        "level": "7+",
+        "const": 7.8,
+        "notes": 748,
+        "chart": "nora::pengin"
+      },
+      "Future": {
+        "level": "9+",
+        "const": 9.9,
+        "notes": 1060,
+        "chart": "nora::pengin"
+      },
+      "Eternal": {
+        "level": "10+",
+        "const": 10.9,
+        "notes": 1379,
+        "chart": "終点"
       }
     }
   }
