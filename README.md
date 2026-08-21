@@ -20,21 +20,19 @@ https://forms.gle/J3c5UqcVD92jSPCTA
 
 
 # 曲埋めた数
-達成率(ver.6.11.0) [505/505]
+達成率(ver.6.16.0) [542/542?]
 
-Arcaea Pack: [63/63]
+Arcaea Pack: [70/70]
 
-Memory Archive Pack: [120/120]
+Memory Archive Pack: [133/133]
 
-World Extend 4: Emanations Pack [6/6]
+World Extend 4: Emanations Pack: [16/16]
 
 Extend Archive 3: Illusions Pack: [20/20]
 
 Extend Archive 2: Chronicles Pack: [20/20]
 
 Extend Archive 1: Visions Pack: [20/20]
-
-"Liminal Eclipse" Pack: [5/5]
 
 Lucent Historia Pack: [7/7]
 
@@ -54,8 +52,6 @@ Vicious Labyrinth Pack: [6/6]
 
 Eternal Core Pack: [9/9]
 
-Extant Anima Pack: [10/10]
-
 Esoteric Order Pack: [12/12]
 
 Divided Heart Pack: [5/5]
@@ -72,11 +68,7 @@ Ambivalent Vision Pack: [6/6]
 
 Crimson Solace Pack: [6/6]
 
-Arcaea Next Stage Pack: [6/6]
-
 DJMAX Collaboration Pack: [10/10]
-
-UNDERTALE Collaboration Pack: [5/5]
 
 Rotaeno Collaboration Pack: [5/5]
 
@@ -99,3 +91,13 @@ Tone Sphere Collaboration Pack: [5/5]
 Lanota Collaboration Pack: [8/8]
 
 Dynamix Collaboration Pack: [5/5]
+
+Extant Anima Pack: [10/10]
+
+Liminal Eclipse Pack: [5/5]
+
+MEGAREX Collaboration Pack: [5/5]
+
+Virtual Singers Pack: [5/5]
+
+UNDERTALE Pack: [8/8]
